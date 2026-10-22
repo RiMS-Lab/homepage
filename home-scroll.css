@@ -296,7 +296,7 @@ footer .footer-location p+p,footer .footer-contact p+p,
 footer,.home footer{position:relative}
 footer>.footer-copyright,.home footer>.footer-copyright{
  position:absolute;
- right:clamp(40px,5vw,96px);
+ right:8px;
  bottom:5px;
  margin:0;
  color:#788279;
@@ -305,7 +305,7 @@ footer>.footer-copyright,.home footer>.footer-copyright{
  white-space:nowrap;
 }
 @media(max-width:620px){
- footer>.footer-copyright,.home footer>.footer-copyright{right:7%;bottom:2px;font-size:12px;line-height:16px}
+ footer>.footer-copyright,.home footer>.footer-copyright{right:8px;bottom:2px;font-size:12px;line-height:16px}
 }
 
 /* Hero affiliation readability */
