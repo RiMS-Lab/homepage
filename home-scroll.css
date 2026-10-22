@@ -232,6 +232,41 @@ footer,.home footer{grid-template-columns:220px 350px minmax(430px,520px) 220px;
 @media(max-width:860px){.intro-clean h1{white-space:normal;font-size:clamp(38px,9vw,54px);letter-spacing:-1.7px}}
 @media(max-width:620px){footer,.home footer{grid-template-columns:1fr}}
 
+/* Let the footer use the viewport instead of leaving wide empty sides. */
+footer,.home footer{
+ width:100%;
+ grid-template-columns:240px minmax(300px,1.15fr) minmax(440px,1.55fr) 230px;
+ justify-content:stretch;
+ column-gap:clamp(30px,3.6vw,68px);
+ padding-inline:clamp(40px,5vw,96px);
+}
+footer .footer-location p,.home footer .footer-location p{white-space:nowrap}
+@media(max-width:1400px){
+ footer,.home footer{grid-template-columns:210px minmax(260px,1fr) minmax(390px,1.35fr) 210px;column-gap:28px;padding-inline:38px}
+}
+@media(max-width:1100px){
+ footer,.home footer{grid-template-columns:minmax(220px,1fr) minmax(320px,1.5fr);padding-inline:7%}
+ footer .footer-location p,.home footer .footer-location p{white-space:normal}
+}
+@media(max-width:620px){footer,.home footer{grid-template-columns:1fr;padding-inline:7%}}
+
+/* Larger footer identity and type for comfortable reading. */
+footer,.home footer{padding-top:38px;padding-bottom:38px}
+.footer-brand{gap:22px}
+.footer-kmou img{width:82px;height:82px}
+footer .footer-brand .brand-mark,.home footer .footer-brand .brand-mark{font-size:44px}
+footer .footer-about strong,footer .footer-location>strong,footer .footer-contact>strong,
+.home footer .footer-about strong,.home footer .footer-location>strong,.home footer .footer-contact>strong{font-size:18px;line-height:1.35}
+footer .footer-about p,footer .footer-location p,footer .footer-contact p,
+.home footer .footer-about p,.home footer .footer-location p,.home footer .footer-contact p{font-size:16px;line-height:1.6;margin-top:8px}
+.footer-contact span{width:23px}
+.footer-contact .footer-copyright{font-size:14px;margin-top:12px}
+@media(max-width:620px){
+ footer,.home footer{padding-top:34px;padding-bottom:34px}
+ .footer-kmou img{width:72px;height:72px}
+ footer .footer-brand .brand-mark,.home footer .footer-brand .brand-mark{font-size:40px}
+}
+
 /* Hero affiliation readability */
 .intro-university{font-size:16px;margin-left:3px}
 @media(max-width:860px){.intro-university{font-size:13px}}
