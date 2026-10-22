@@ -1,0 +1,1216 @@
+[
+  {
+    "title": "Home",
+    "url": "https://sites.google.com/view/drshin/home",
+    "sections": [
+      {
+        "images": [],
+        "links": [
+          {
+            "title": "Autonomous Vehicle Control",
+            "url": "https://scholar.google.co.kr/citations?view_op=search_authors&hl=en&mauthors=label:autonomous_vehicle_control"
+          },
+          {
+            "title": "AI-Powered Hybrid Control",
+            "url": "https://scholar.google.co.kr/citations?view_op=search_authors&hl=en&mauthors=label:ai_powered_hybrid_control"
+          }
+        ],
+        "text": "Korea Maritime & Ocean University, Research in Intelligent Mobility Systems Lab.\n\n\n\n\n\n\n\n\nResearch in Intelligent Mobility Systems [  RiMS ]\n\n Human-Centered Smart Mobility Themes \n\n#Autonomous Vehicle Control  #AI-Powered Hybrid Control  #Artificial Intelligence # C-ITS #Socially Aware Vehicle Control",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tSugjWBOdkPpU_ay1ose2MyBc_BRDpOTndfLNr5K2p4K1cCk75Zm1vkUzzUnXPxlebGEWhAawe86C0d77gbV0LpIiGnn02aLluoYaobjL0lhzrQMihjucl0jOeAdu058iWwWYRg1WrWWKPXJKNx5XUrGO7vae-mWZaLTZMQGoLZGnL6vPXxyAVHeA4DPeVfeY91-DxwYYn15ozCmQfL9t9hBQ9FbhzC0-g=w1280",
+            "local": "assets/home-0.jpg"
+          }
+        ],
+        "links": [],
+        "text": "Dr. Donghoon Shin is an Associate Professor in the Department of Artificial Intelligence Engineering (Intelligent Control Systems Major) at Korea Maritime & Ocean University (KMOU), where he currently serves as Major Coordinator of the Intelligent Control Systems Major, after serving as Chair of the Department of AI Engineering (2025–2026). He directs RiMS (Research in Intelligent Mobility Systems), an interdisciplinary lab developing learning-based and Physical AI methods that bridge data-driven models with the physical dynamics of real-world machines — spanning autonomous vehicles, robotics, and maritime autonomous systems.\n\nSince 2023 he has served as the National Representative of the Republic of Korea to the UNECE WP.29 Informal Working Group on Artificial Intelligence (IWG on AI), hosting the IWG plenary in Korea in February 2026. He was Vice Chairman (Academic Affairs) of the Korea Auto-Vehicle Safety Association (KASA), 2023–2025, and continues to serve on the boards of KASA and the Korean Society of Mechanical Engineers (KSME).\n\nDr. Shin is a member of KMOU's Maritime SMR Promotion Team, a presidential-level initiative advancing small modular reactor technology for maritime and naval propulsion applications, including nuclear-powered submarines. Within this initiative his contribution is on the digital and AI safety side: AI-based safety assessment (AI Safety Case), digital twin and prognostics & health management (PHM), verification and validation of autonomous and remotely operated systems, and international regulation and standardization for AI and digital systems. Beyond the reactor technology itself, he works with the team on shaping the digital safety architecture and international certification framework for future maritime SMR vessels, and on building convergence research and education programs in AI, digital safety, and digital twin.\n\nHis core research interests include Physical AI and Real-to-Sim / Sim-to-Real digital twins, AI-driven PHM of safety-critical components using existing vehicle data only (no added sensors), human-centric automated driving and steer-by-wire control, explainable and certifiable AI (XAI) for safety-critical autonomy, and on-device / closed-network AI for defense and maritime environments.\n\nPrior to KMOU, he was a Research Associate Professor and Director of the Intelligent Mobility Systems Lab at the Future Mobility Technology Center, Seoul National University; an Assistant Professor at Sookmyung Women's University; a Development Engineer at Mercedes-Benz R&D (Daimler AG), working on ADAS and highly automated driving for the next-generation S-Class (W223); and an Assistant Professor at the Republic of Korea Naval Academy during his military service as a naval officer. He received his Ph.D. in Mechanical Engineering from Seoul National University (2017) under Prof. Kyongsu Yi, and his B.S. from the University of Minnesota–Twin Cities (2012).\n\nHe has authored 60+ peer-reviewed papers, holds US and Korean patents, and has received the Minister Award of the Ministry of Land, Infrastructure and Transport (2024) for contributions to human-centered future mobility, along with multiple grand prizes in national autonomous-driving competitions. His research is supported by Hyundai Motor Group, the ROK Navy, KATRI, NRF, and the Ministry of National Defense, and has been featured on KBS, Chosun Ilbo, JoongAng Ilbo, Maeil Business, and Hankyoreh.",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sIE-5NHOHzzgpPNASe2aQ4iNyMRsZ2wj6w3u69Ii6t-qsqODhN6dlWhr25cF5sSO-hm6F0C4PtlLXEGn4hmWbB_t_h8NEPl9rNnAMaTsmk2_FASXDohA2Sc3kc7-pz40aCDMmt208LIaHj4y6YtGGcvsAK19XYSrrcJDJ0IOgBYS3ujhv2rISnV8hKyJSl8CPghkjSZMmNBDt7gBhCWQeGm7LFFqWweCNV=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vf2s0D-adeupT1DXU3FlNTtsUcYzJFRVYY6u6M9SWgE_dCi0dhbdDuA5ar4QSDk4dzWdV0NMgm41kc-wUEslkViJ4D_KdVm0K5iYX5s-qvG1nJFvLVS3wkOCunU7y1tgpKABx5a3nSBarAKv04iwryMLr8q3QUxCPBGW36zAIFvZ81RiG6Oygjxdgv4CFlsKrfklLePK3-5eQZpUqzgPDjsWg3I86Nuldp=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sT7Zmm1BIYE_LYyR2fl800phmgPSX6X8MDagLrGaadXIF6hedipRAlviaEChzBusX-_CwRv6AQQXFrErlX3qXzjVIIxpFRIjrTjWjMZNs9-J-tCZtbLCMqWRA46_yjZVCvpkehSLrMeMYztXBfFGnnIbkah4BcPflSCwBGXqFjUYcZx8n9cUt43VTPys9TI4MF-sR-CkAECwFoBS-j6BijQlzEwSNaEB-z=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "Digital Chassis Twin Demonstrations",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v8lW49XcLE5RZgQEnV-_Isw6iQjZss6aXRnuKCH_JO-2MK4CgmIAIBwgMew_6lB_WguEQIGPe94TT-cPYrFC3atbVQyrUzX-cM4utrdEBG9-idCxEPT3eWbJ20Qu8b98KdwUl7mmwCXLbTOF7wAFiekRBpDvxJk-IZH9sNdMBZE7YKkh3kgcUOp0V01FSkh7hesjZWimrGqSd44DndbFTx_A6uKem_ppJ3=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vyqbcvEahIFnwPaQgLtm9RJC0LnUvmTYYA8Va5fuuqlrwlTLR5P9bw0jVBOzAhkVXnyz4jMsszuIa4qg7SeagMXO5fH6WzEf4yDFk2UNMENjO1cltbykwQ-pfLuxsnQTyQFr93Ve4oCD26xZFe7igT64cKuXU42nlqyyfxSaD3RKxWcIF5pKctxLzVu5N3afGOClimDDrEYs67zcWTmprzQpn900oe6Pyn=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tLLlr61WMCQONT--Ew0ti4JdwO9T2phUFPyW-EuIfaKyrYSZr78Q3owlN615cL4T3meo9nbDDy0FKF8maDt71ekN4Of3dSoa3MG29AmjMK-K07wpnYx88woYGSihsgPgGZMx_T3nfpIgTE9MSJiAd2widmLNX3NlAskTG4it2Kv5nFodZdr4G_aNZHd9P_EO46_NtSn9HyZeN7bBIr1K8VXLDcLrTS0g=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uh0nIviBsIkPn_w1PmJh7d6xm5qBXcttlT8RZVH8w7aViGMPsw7HlG97WOtjxRcYBmE4GVI_eU4-XKazb0YDyrd7wC3KuA-G33Oy9-VTRb_h6vBdDsLbpD9Ah0ccQ1yc45IRm1og4wHpOuMzX-XG33o4Zuw--JsjgjQkmwRpS55TvNV6rg-1USjotzkXA0i4Chjz_-CIu7BFmAd6GouQfd4JsY7tVCCVj6=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tQSGZCfgtY5o1PZSBtytvJl3Eq4TQ7NV0LhVzk6BXcf78h9BVvTzqS0Asf5-_VC6XfvDwuwXRQj5SjE_s5tcR_pfsS-XKzr9VFUDg0fHOzUSaCNGTs20waDA1pPNQ60u40HUoaxDeqw8RSpq7Fu3EaNp6aypv41A7sstdqxc5OPf21OTZ5cmHG9h_Hq0vtvxWWkx43JRfz6NOvL5kn9gttSmndUjZ4lz3H=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": [
+          {
+            "title": "",
+            "url": "https://www.youtubeeducation.com/embed/uBHFN2Wc46o?embed_config=%7B%22enc%22:%22AXH1ezlic_SwGurb9F1sGD2DL50j5ZqwKkacAV7qM4O9wedAL02EiCm_PAcXNXDQQOwXE-BSBl0KwA3WNyyMmsgT8YXO0qotoq0dbwuHTiUF35sycXzy2QAb0JFADoR9MeTeIPrvRUq9EsG877P1nNjSm_A17HaPF2-lwkO-I7DlrAUXtTSCdFECzbq1HTpTJan6llUyKhxCio7NH2M%3D%22%7D&enablejsapi=1&errorlinks=1&origin=https://sites.google.com&rct=CpcBAXH1eznPHQtAahhqsPiaPc0s5WngLc9UL8h-pHUVb0ovXTdeBOtCclhQhTxU5PfeS4ZlneO_S10EEthineS79sBZNLoLTC9fj_hYR6C_sh73zYKwjmQC4kwHteB70D5IBU_2pcyXqeyJOl8C8WJDn4fGyewJRsFA16IFHqKJVrhrAt4yUS_KaETcu4id9uJ0RwCHC9L_Ig%3D%3D&vl=1"
+          }
+        ]
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "2023 C-ITS Demonstration on KATRI Test bed",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "",
+        "videos": [
+          {
+            "title": "",
+            "url": "https://www.youtubeeducation.com/embed/r8OplIQbsrc?embed_config=%7B%22enc%22:%22AXH1ezkjhoIpGOQR7M7Scd7TZvDTr2Fn93hOlqL_uipjdy5MV1iZqRVteZuyPphY96M9jNInliaVTfIAWltW4F4dHpusr_CEcOf-KMirFVBkfdVNiXWLBLqsJzYQcER9iXA6QTRWKNt5O8MxaCCzmjZDSRT3mp1dl4dU5_HexZZU-9VlkTMcPpKAtpNLKQ5czyG-AChWcVTiii99hbU%3D%22%7D&enablejsapi=1&errorlinks=1&origin=https://sites.google.com&rct=CpcBAXH1eznUwvX9jC9be1uS2wRq0NhZFSPG1IMTTPR9ffsW7JwDcSnb5ODxxUuucZl3boVgxi6uH1yLBtYtpAkxT6OHKCIxhsnMWPCjlE9lLa7AI38omPjy9SlDOSY7tmg0ps5opojfLipPc217omfWGdFrwudHoJGMvEkhcdT8kYYKZeIAsHsEU8h1fG8KJclZge6EGpsW0A%3D%3D&vl=1"
+          }
+        ]
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tPjI0BU1Skwo0033PvycsLSQ7M6VsVJ07sXkHzpQo7-bBKsR4hzAEhEb_B1kWLGddqNR2ZtdpVMJgPWPuICQLYXvf1Rd-OEJNdrYxNWywLZx1-5OEXvWdXQG3nYgs5JhWGZHyJzYbfBj1SdkfKuuQO8V4rFymKrQ0_L7p6fWhO_zP-m8nE8bgJKiUBILtAqLgTBoDGid_qU0Po2e81p5ccB3qGWF_inkOX=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sRDtmxmOHxfKuTStFmOqYXfoGzT_hXGJ9DKJ9kecKtfyDFZLV-f5GFGnKZJbDr4_H33PYfTvYimGipKJ1nypL6TpfNnRDRdBgq3MAVLfzxtvgwPA8FVF3HfuaBhU3nE00sxU_iQw2NK5jbSn3u3MH0Z5UB6eIP-bgUFnN-J2oh-PrK_yOSzBHOz6n-RppkVVX1uhQz9SyzS1xmz4Om-J_B54RIwY0zPzTD=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uf2S0QHWkf36bBH8wq-O-IevRcqDm0HXaGkZHRHZOYR7M5uUnoaZC_Q4n3Ab5Cjhg-2hfdd26xmfD5zzpsDNmzxbZfwnmhTiWBb0jTZXp4zdFIQ8FePx8ySqVaC1OlXsOYx41fWWHdpwlcshIu_IN8SX-Y326imNAZ9dvukdnTJl0uEQCGNTNQDpbi1WgvjnKpltoT5dFg59HNVLOP1NhDkpd5PstQ_JO2=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sjEvW3dWJMbpdvXaPGO86LGV4XTh4r6rsCxH5Z_4VVjkwQQ9A2_zZZvEmpF_f3nBCxoqUtshjIQsyYyIuZwMWj8cquvXGwGXFLDj5vYXC1zhwKs0RjG2gCAbOpmqyNeeKd70EZFza-HM29vO9PblRtFXz8lZPxk-FwwqY_V0JJzSLtde_vP2kvBBVM2lGpefHpPlSntZjiCpLfUHQx8Wslc6J6sQvAdWeS=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uAYQNxFhdUvMo3RJLm0JFQujYOQKTvumoPafbIrgnOqG-TsgaKCIRBSWgqAGYr2btGH11q3gc_qzRbIeFRhTF6LonAah4KMNcsNd-DiZh_wZcbPu6M1dON_4BEQb-P4ZdVL9e-zNCSjI8r_w7Zl-6PC3ojbXu4s7waoEr0Qeqbds5oYQmS9jkCyoj7hNo1oxwb7Vbx78TX-W2o3VLIBTfvjFQcO-eDvw=w1280"
+          }
+        ],
+        "links": [],
+        "text": "Our Research is selected as an Outstanding Research of Hyundai-KIA",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u91HuHKRVLEdWWtg15SDfH0oB7Fe0rclYleoF7oSFWVVQRmxGISy-PIHvD7GVzllyYLbVpVjWI9uIhSdqDo8dwe0cZ2NsLp6qpK5ZlCRxSYfHfhL1UfIN-ehOh4dUxjJqPgYBGEjisgYuRuCR7f6OCYq-l_MpILAFI3GmKQPuHxIKJ17uF-UQsX_73VFvORreKa8etFzcze-sEUfqWFUg9mSLeBfNGEv8x=w1280"
+          }
+        ],
+        "links": [],
+        "text": "Congratulations! Research Project with Hyundai-Kia has been Initiated ('22. July)",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sdvYla50oYBT9xn_jl-G8AO_-PCfai3y7u5HkZWjff1LT8wndFVQvjNqqbdeBtlHz8wN9Sl-Pfs-s1-Qq3GAfL4hVkdfmFlZFmvJyG0ReKYI1d7FeoWffMLy4sGDUNChfD1rL9Xe2ht5qWyC_9-2ubxMj4LVMBfhNy91nONfLLVgkFAdnPlLpJP9HwmV1qMIUiVZapSl77SFRmO6Oo79HzUVBMNNWasw=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "Electrical Engineering | Texas A&M University Engineering",
+            "url": "https://engineering.tamu.edu/electrical/academics/elen.html"
+          }
+        ],
+        "text": "Congratulations!  Alumni 박창주 ( PARK, CHANG JU ) , 해군 대위\n\n교수요원 선발 및 美 석사과정 합격 국비 장학생 선정 (2022) \n\nElectrical Engineering | Texas A&M University Engineering \n\nMidshipman (Undergraduate Research Assistant)\n\nResearch Interests : Autonomous Vehicle and Collision Risk\n\nPrime Minister Award (Magna cum laude 우등졸업 국무총리상)\n\nB.S. (Class of 2019)\n\nDepartment of Mechanical Engineering\n\nRepublic of Korea Naval Academy",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vdsiqhS0Wk3J1PmTsJmKZZhEQQtKdyRXHvTBj5yVjwsCzWFBIVW8EiRhbzCTN4n-g8fa6ODq7IvAl4ftF1o7rKhXictv8aVRDMrnonbZMBR8EDOslRMgIYNKro5TduXsjnsfaHawJA32v91fIsl39wG-yk3ZsByTUeUHj6et6LjCW3fjozwp4ALuuTQ8-7kWLbVH1PLA=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "",
+            "url": "https://sites.google.com/view/drshin#h.p_QPxfcfboKvX1"
+          }
+        ],
+        "text": "Personalizing Driving Style of Automated Vehicle \n\n\n\n  For Seamless Training of Individual Driver\n\n  Imitates Every Single Driving Pattern using Neural Network\n\n  Creates Deep Neural Network for Imitation of Individual Driver\n\n  Optimization of Deep Neural Network using Architecture Search\n\n  Individualized Network Design for Every Single Driver\n\n  Automatically create neural network using Architecture Search\n\n  Efficient and Effortless Design Process while ensuring Training Performance",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72toiKYfbJQpc95ZyY7TnUtm5xjQCc85W1AE9CHYC9d8sEwz8_duWGpyKOmghEtCMlbOS37JjmA1gOGMaEEAQMx6TzV9cLNVoVLW8V5g4A9M4Dzo49VqE7liqpp8orkHTDbyAxcqe35HK_meK442U5hjfsPlnr_pu0mKSxiRC2qk0c7wm-TTt9wgpAwN6VQVDiPF-YIQGQ=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "",
+            "url": "https://sites.google.com/view/drshin#h.p_S3ZB29lGIGmT"
+          }
+        ],
+        "text": "Automated Delivery System through Unmanned Ground Vehicle \n\n\n\nResearch Issues :\n\nPerception using LiDAR / Camera,\n\nDecision by Deep Learning\n\nActuator Control through Robust Control/ Model Predictive Control \n\nApplications :\n\n Automated Food and Document Delivery Systems \n\n Provide Safety Guidance and Information Service interacting with Human",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u2_hXVrUZZlbkd_7OS7DYeCM8jmrPvLK6NPqggzxtuyrmpUDsKmYC_rk2a1JNZf8IdhRHL10OptFDQJ8gRHfKWfmE01fsoUMkkEaweLfnytBswnvAb9Y8GhNE2XUq2QEC_0CTgmmA3b240yRDaqNegXpx4Pxjmxz0vPUDy9R3HQvO0bEsVn2LWzaIaQpl07QTYGMFU6046=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "",
+            "url": "https://sites.google.com/view/drshin#h.p_q8iiIKa5GoZ3"
+          },
+          {
+            "title": "https://www.mdpi.com/2076-3417/9/19/4131",
+            "url": "https://www.mdpi.com/2076-3417/9/19/4131"
+          }
+        ],
+        "text": "Verification of the algorithm is carried out through anti-submarine high value unit (HVU) escort mission simulations \n\n\n\nTitle \" Design of Warship Simulation Using Variable-Chromosome Genetic Algorithm \"\n\nCollaborated with Korea Aerospace University & Naval Academy\n\nhttps://www.mdpi.com/2076-3417/9/19/4131",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "",
+        "videos": [
+          {
+            "title": "맞춤 삽입",
+            "url": "https://www.gstatic.com/atari/embeds/91f5b13c6c3a9a326512ed25cf57c9b4/intermediate-frame-minified.html?jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.ko.mFcfXp-Xjhk.O%2Fd%3D1%2Frs%3DAHpOoo_vtG31uUKxcGbM9-GB66bWMvgXpg%2Fm%3D__features__&r=860845821"
+          }
+        ]
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "Copyright ⓒ 2021 RiMS Lab",
+        "videos": []
+      }
+    ]
+  },
+  {
+    "sections": [
+      {
+        "images": [],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tiaMqpL5IQjJVjkD8Imx76RW4mmgpn5NCUP-l6CtUL_73brEHZoiz4ch0V2wnhYNrRdA6eliasjo1I55IuhtyjtDZMttu3o0Eyd5xAw39Pzx_NaBfh1ylOpgEUhH-ShKw0mZMhJHCj3Z09tzoIV3Lu1_vHrAj8CvJCZk0ep9SwF5kOyYGeGi6_c1Se2ZclRU93s0Yt07A_iDraHVhq3ItPeMC6EJgQ6WCK=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "",
+            "url": "https://sites.google.com/view/drshin/d-shin#h.p_8Ih_7qfPmqJi"
+          },
+          {
+            "title": "https://scholar.google.co.kr/citations?user=MCPd0-IAAAAJ&hl=en",
+            "url": "https://scholar.google.co.kr/citations?user=MCPd0-IAAAAJ&hl=en"
+          }
+        ],
+        "text": "Prof. Donghoon Shin\n\n\n\nDonghoon Shin, Ph.D.\n\nDept. of Artificial Intelligence Engineering (Control Systems)\n\nKorea Maritime & Ocean University\n\n인공지능공학부 교수 (지능제어) | 한국해양대학교\n\n(사)자동차안전학회 부회장 (Editor in Chief)\n\nTel: +82 51 410 4341 | +82 10 8507 1707\n\nEmail: dhshin@kmou.ac.kr | Web: https://sites.google.com/view/drshin\n\nLocation: 727 Taejong-ro, Yeongdo-Gu, Busan 49112, South Korea\n\n** Publications List   https://scholar.google.co.kr/citations?user=MCPd0-IAAAAJ&hl=en",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "Professional Experience\nDirector of RIMS Lab., Future Mobility Technolohy Center, Seoul National University, \n\nAssistant Professor at Sookmyung Women's University, Mechanical Systems Engineering\n\nDevelopment Engineer of Advanced Driver Assistance Systems, Mercedes-Benz Research & Development\n\nAssistant Professor at Korea Naval Academy, Mechanical Engineering (Navy Officer)\n\n\n\n\nEducation\n\nPh.D. in Mechanical  Engineering at Seoul National University\n\nB.S.   in Mechanical  Engineering at University of Minnesota - Twincities\n\n\n\n\nContact Info.\n\ndhshin@kmou.ac.kr\n\n\n\n\nLocation",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "",
+        "videos": [
+          {
+            "title": "",
+            "url": "https://maps-api-ssl.google.com/maps?hl=ko&ll=35.076616,129.090413&output=embed&q=%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C+%EC%98%81%EB%8F%84%EA%B5%AC+%ED%83%9C%EC%A2%85%EB%A1%9C+727+(%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C+%EC%98%81%EB%8F%84%EA%B5%AC+%ED%83%9C%EC%A2%85%EB%A1%9C+727)&z=17"
+          }
+        ]
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "Copyright ⓒ 2021 RiMS Lab",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tSugjWBOdkPpU_ay1ose2MyBc_BRDpOTndfLNr5K2p4K1cCk75Zm1vkUzzUnXPxlebGEWhAawe86C0d77gbV0LpIiGnn02aLluoYaobjL0lhzrQMihjucl0jOeAdu058iWwWYRg1WrWWKPXJKNx5XUrGO7vae-mWZaLTZMQGoLZGnL6vPXxyAVHeA4DPeVfeY91-DxwYYn15ozCmQfL9t9hBQ9FbhzC0-g=w1280",
+            "local": "assets/home-0.jpg"
+          }
+        ],
+        "links": [],
+        "text": "Dr. Donghoon Shin is an Associate Professor in the Department of Artificial Intelligence Engineering (Intelligent Control Systems Major) at Korea Maritime & Ocean University (KMOU), where he currently serves as Major Coordinator of the Intelligent Control Systems Major, after serving as Chair of the Department of AI Engineering (2025–2026). He directs RiMS (Research in Intelligent Mobility Systems), an interdisciplinary lab developing learning-based and Physical AI methods that bridge data-driven models with the physical dynamics of real-world machines — spanning autonomous vehicles, robotics, and maritime autonomous systems.\n\nSince 2023 he has served as the National Representative of the Republic of Korea to the UNECE WP.29 Informal Working Group on Artificial Intelligence (IWG on AI), hosting the IWG plenary in Korea in February 2026. He was Vice Chairman (Academic Affairs) of the Korea Auto-Vehicle Safety Association (KASA), 2023–2025, and continues to serve on the boards of KASA and the Korean Society of Mechanical Engineers (KSME).\n\nDr. Shin is a member of KMOU's Maritime SMR Promotion Team, a presidential-level initiative advancing small modular reactor technology for maritime and naval propulsion applications, including nuclear-powered submarines. Within this initiative his contribution is on the digital and AI safety side: AI-based safety assessment (AI Safety Case), digital twin and prognostics & health management (PHM), verification and validation of autonomous and remotely operated systems, and international regulation and standardization for AI and digital systems. Beyond the reactor technology itself, he works with the team on shaping the digital safety architecture and international certification framework for future maritime SMR vessels, and on building convergence research and education programs in AI, digital safety, and digital twin.\n\nHis core research interests include Physical AI and Real-to-Sim / Sim-to-Real digital twins, AI-driven PHM of safety-critical components using existing vehicle data only (no added sensors), human-centric automated driving and steer-by-wire control, explainable and certifiable AI (XAI) for safety-critical autonomy, and on-device / closed-network AI for defense and maritime environments.\n\nPrior to KMOU, he was a Research Associate Professor and Director of the Intelligent Mobility Systems Lab at the Future Mobility Technology Center, Seoul National University; an Assistant Professor at Sookmyung Women's University; a Development Engineer at Mercedes-Benz R&D (Daimler AG), working on ADAS and highly automated driving for the next-generation S-Class (W223); and an Assistant Professor at the Republic of Korea Naval Academy during his military service as a naval officer. He received his Ph.D. in Mechanical Engineering from Seoul National University (2017) under Prof. Kyongsu Yi, and his B.S. from the University of Minnesota–Twin Cities (2012).\n\nHe has authored 60+ peer-reviewed papers, holds US and Korean patents, and has received the Minister Award of the Ministry of Land, Infrastructure and Transport (2024) for contributions to human-centered future mobility, along with multiple grand prizes in national autonomous-driving competitions. His research is supported by Hyundai Motor Group, the ROK Navy, KATRI, NRF, and the Ministry of National Defense, and has been featured on KBS, Chosun Ilbo, JoongAng Ilbo, Maeil Business, and Hankyoreh.",
+        "videos": []
+      }
+    ],
+    "title": "D. Shin",
+    "url": "https://sites.google.com/view/drshin/d-shin"
+  },
+  {
+    "sections": [
+      {
+        "images": [],
+        "links": [],
+        "text": "Lab Members",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [
+          {
+            "title": "",
+            "url": "https://sites.google.com/view/drshin/lab-members#h.p_R8oAuKuiIdos"
+          }
+        ],
+        "text": "Current Members @ KMOU\n\nTH Yoon - Ph.D Candidate\n\nGH Jeong - Master Candidate\n\nIS Jeong - Master Candidate\n\nWS Choi - Master Candidate\n\n------\n\nUndergraduate Research Assistant\n\nInha Kim",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [
+          {
+            "title": "",
+            "url": "https://sites.google.com/view/drshin/lab-members#h.p_0hNAQFjTIVlt"
+          }
+        ],
+        "text": "Alumni at Sookmyung\n\n명진희 (J, Myoung ) \n\nHyundai Motor Group  현대자동차 (자율주행설계팀)\n\n이민영 (M. Lee ) \n\nHyundai Motor Group  현대자동차 (자율주행 판단제어팀)\n\n황예진 (Y. Hwang ) \n\nLG 전자 마곡 중앙 연구소\n\n전효리 (Jun, Hyori ) \n\nHyundai Motor Group  현대모비스 (MOBIS, 자율주차팀)\n\n황수정 (Hwang, Soojeong ) \n\nHyundai Motor Group  현대오토에버 (Autoever, 기능안전직무)\n\n이예현 (Lee, YH ) \n\n한국타이어 디지털 AI 관련직무",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [
+          {
+            "title": "",
+            "url": "https://sites.google.com/view/drshin/lab-members#h.39rkq0mi9gg5"
+          }
+        ],
+        "text": "Alumni at Naval Academy",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tcdfPoa-lXr7uZn9Uf0rQ6ZoogEJBrAYcuxvCXX5KBXhPK4eE2eFZDVNUyXq5JR6UNJkJmqquW-kLvxqgoMiKjkSWsb1Bpz-IQY23NyFhfMUPegEIhDtwAODVZZHjyiPAf_9FGGdoi0DDE0gBtQ-x0TomBv2Q2fO98Q9en8DpzApVhlNtYZbjM71QDVu21z3mVGw=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "Electrical Engineering | Texas A&M University Engineering",
+            "url": "https://engineering.tamu.edu/electrical/academics/elen.html"
+          }
+        ],
+        "text": "박창주 ( PARK, CHANG JU ) \n\nElectrical Engineering | Texas A&M University Engineering \n\n교수요원 선발 및 美 석사과정 국비 장학생 선정 (2022) \n\nMidshipman (Undergraduate Research Assistant)\n\nResearch Interests : Autonomous Vehicle and Collision Risk\n\nPrime Minister Award (Magna cum laude 우등졸업 국무총리상)\n\nB.S. (Class of 2019)\n\nDepartment of Mechanical Engineering\n\nRepublic of Korea Naval Academy",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72stEjbbOoX74Zv7j-UmzEES3JG20ZpFlQpQ3O54XKSM2Nr4yZb4xLp0M-a1oMNAoAxJHINx00Md2X8UnFl3Wj0zPL4BIQmjHT8ApEyH1dR2MvgmkZnaAKu8m2OnnPsN8b9vgVFbAzOWtZ8R6XCYbB8pOVBK8EQP86Fn9hu8B5WamrCsEsjtvBV__wOVAPl8-c97Z7OrF4IP=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sfn-sRNpBe76fXrEGjXpVSAJ4GUHhh0CaWds7wsofSefmt9bjYE6uMjB8A_RA0gL_29uvaq54vbYZldX1ZeevHCT0Ln4nObvC6gDwgBOmuxsLeGZJwPNiPi-517hSkNjh8DVowThx1k1R4kpwAmRXXT5iYJ9c6=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "Copyright ⓒ 2021 RiMS Lab",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sdvYla50oYBT9xn_jl-G8AO_-PCfai3y7u5HkZWjff1LT8wndFVQvjNqqbdeBtlHz8wN9Sl-Pfs-s1-Qq3GAfL4hVkdfmFlZFmvJyG0ReKYI1d7FeoWffMLy4sGDUNChfD1rL9Xe2ht5qWyC_9-2ubxMj4LVMBfhNy91nONfLLVgkFAdnPlLpJP9HwmV1qMIUiVZapSl77SFRmO6Oo79HzUVBMNNWasw=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "Electrical Engineering | Texas A&M University Engineering",
+            "url": "https://engineering.tamu.edu/electrical/academics/elen.html"
+          }
+        ],
+        "text": "Congratulations!  Alumni 박창주 ( PARK, CHANG JU ) , 해군 대위\n\n교수요원 선발 및 美 석사과정 합격 국비 장학생 선정 (2022) \n\nElectrical Engineering | Texas A&M University Engineering \n\nMidshipman (Undergraduate Research Assistant)\n\nResearch Interests : Autonomous Vehicle and Collision Risk\n\nPrime Minister Award (Magna cum laude 우등졸업 국무총리상)\n\nB.S. (Class of 2019)\n\nDepartment of Mechanical Engineering\n\nRepublic of Korea Naval Academy",
+        "videos": []
+      }
+    ],
+    "title": "Lab Members",
+    "url": "https://sites.google.com/view/drshin/lab-members"
+  },
+  {
+    "sections": [
+      {
+        "images": [],
+        "links": [],
+        "text": "Gallery",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "현대자동차 그룹 제자들과",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tylIcpDfcCZxTM_W-o5r0YCAwX8wwqNgQdMbplauf8nTAOLvnnMqqllQOGbFcHTnZddgfWrjcPu7kVE_O5ub8L_QFVhj_hs_5Q5ZrsdKrSx1bZAr5qsBjLGOxwi83gCmWxFlqLgqjqpGOYE_ykoszSReEh9BFEVnulhxt0aIPmtsawNd_LneDDejKwe41p_YYj1IKI6gWvPjypqO8FkhPARfsq4X2ZRA=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sVNLF2nQ55Sg_zhv71hlLkcGy-8cJwpeIVakN7LTu-zH-wFsdxMH0-ddBVtnWMHPsyzYl4qmt8gOzyIJG8F2hgODYvlSr3SZoZJGTSoAHk-ZZgydGhIeVtwlr-gmoThWkBXFMW_e9l_vwdckILd-XjV6sgq-MVSW9923yH_hKXEMTVBWnaA6k3ga8OqEe7S7HksIJeoRy0=w1280"
+          }
+        ],
+        "links": [],
+        "text": "Mercedes-Benz ESF Technical Workshop for Future Enhanced Safety Automobile Concept @ Yongin",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72ul6bdkLbyUth158kKoihFo3txJ086qpn17Lhg84eXWl4CMueAV0y70IOqNnaTazJwXlF09M7trNoyDwaL9kqo9Xyh-R2qKlwNAMAueMnNnTqEi7tMLeAqUdiupwfNSUjjJgSGPA5OAUHaQhGOcjMpgv26qZZXNFOrLcoRfK-e18fGxrJ2AxIC0fdJXJX4zR31H84fO-e5B=w1280"
+          }
+        ],
+        "links": [],
+        "text": "숙명여자대학교 지능이동체 연구실 - 현대자동차 제2회 정기간담회",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "숙명여대, 2021 자율주행 경진대회에서 '우수상' 및 ‘대상’수상… 디지털 융합혁신을 통한 스마트 모빌리티 인재양성 풍성한 결실",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tmCJlghKjBzWw6iDXouQmxllp1LY_ZhpzkRGDDws8YKC4y7d_hFaOZPJ0ZLe16AQMuL6pYoWcygms_oOPGASVn0lQ8UwARcHYkQPooi1bjFTG31CEZRPmWlw4NafYrGyk_O8yiDBNWOW1zWSuAwDHVDANgunpOvzqS92Zl0G_G0iJNIT4DyOnW-WVg9UvDiSAmGcwl5Bg2iy2kTPE2Ks9j2eza2Bkqtg=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72si5EX9HXsAJDG1Jnzn3oeLKMsKDhRaKTtHgBHf2jEFU9svPgj0S9j4BbTasG0m5iuZUYy2DrO1JnFWAnMnOf_izLCaXUMHZMO7Ey3QZ6B6clyZmOffseVAGYCLRqtgbxrCJ5SrFc4whqnY3a1JZelhQKMexrcEot8iSSjy26QQFaOCHHhODnyMh0q-V3dTxwx1woA5nU9TySljgO_Ux2I29XwDuNEupJOg=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sot8lrPa8rUUpUjj_AaVGn9KHBUcvFKXEP_QSBIv5xFd8MQZl90Xqa0EkcP0vwXNvXQdmgfqsuuoqwRo7Oa0bwDNnMYfPQ8xsDCHFlrhK_23e2araTg8j4tPVrZL_qQTSJi5_GFEqoBl2jG4MBSjYSAwxnC5OMk3BmKf9pC2OXWatUzLH2rPLM71npq4Ps6ELrUa8HQ2z0Asv8GBLOkhMJUddtLBZ7zUAO=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "숙명여대와 서울대, 국내 대학 최초로 자율주행 실증 단지에서 연구 및 교육 협력을 위한 업무협약 체결",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tkJARISBEZPao1ZBpXIFzm4iQIzBeJndCDl43EDoJJbDsK-JVzyB0fq0GnJkHsfQRRemUpvaNy7YSGK9yYCwRx9-DpZlGeo3RZqNNb7g59M6KRvcSicPUfcLFatvdtkYZvdaPlqxBtoOrJlMPXzA2CGAS_C2DACyxsu7Wp5thHmscgeanh_O44tvGBzDcATk96RcJ0FUzkY_Mvm4BmgnnF3YT1NvjYtxtx=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sSRcnWEL-AMqqESA_HG6zhbNSvckwv3x6mF32HoMMZnGoPNqb9NhKJRQYsEyAgNE6WUSChbKvJ_Kl1rL76EvwIK9lO6myIMYOlFS2A_2ay8PIPA1QxXjjKNWO5ONnqXBW9b955oM7O8caswGOba7Ca_2uJGWOmu_0b6DyjFmmaT8OpWm88c4_VzGN6C-gvMLXId4IB5fFEZiveFEfet5rrACTX_o5j1VyI=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "제73기 해군사관학교 기계조선공학과 생도 졸업 및 임관식 2019.2.5 (박창주 생도 국무총리상 수여)",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72t6UwcueAFVDJroM44MMGdUC_kvjBNSYmgTjm57cljLyn0-oIBizftti2HsvSQZnItmy4osFrOZaSocNGeWluXJaZznNoISkrom5-4uqBdCP9WfmaGy_APxTbBjLK543zAXBHY8fKHcQ5EHOzR3znANyQc3VEMnBtLWlH3_lLBWrMxytq3jTQR3-4nJX3xuTDWSNlXQF59k=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tkk-ZiQ0PO-x2HTAsECe0LEUfJDzrM9M9KB4tA8CmdaWT-V5Ldc0CTYf0lPEeozldFhZaCZfsiHFZBZeXAptmUkHFXpVFgjN13qI3QDhQ4ulWHC54z8kq0t5Cu0Vkyvttmtg1zpzQPoll5I-IktpfxB6p_GwQFYg72-1T0sig7OW3PixXfvno4Q4uTTEUCJSQL-vr0mg=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tuQaGz_Tr4WJwCZZzkxVFJnCl1XaQ25ddm0Uk2FcJoxxluZybZvZq33Ju3dy1mst098vBTbOjgfzmXpII4u8MOMnjaHWmVdJXANswGBhyUhAWXBtL8MHxQGD-fKgUdvBuPtODG8aXJbeLi2Ba6z490Dokc4V7uAD6RwZNjCftMIzFAXonWxLI-JUQD-ufpS8tdqBKFCzto=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "In Class (System Dynamics and Control ) Cheese Cake Party !",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vlrmoXE0PZhtGKipbLtLKT_EyIyNgqJJ2q09jOgtT6L4LPATetPbFVq_6jDBkm_lB_eDGIoH6WvTUqX2ZmuE2JhYN3_IJbjUaZtpT0iQpWVp1RkpPcSamsOdah7b3Okqv6-1VulOMY5Bv-IQw34Pc6lj8bYkajVz-2SpR3Y4ViwZ50x70wWxrKz5pQh9BncRYevELk_mmO=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tUD7coDu6Ed8r4ByPWVhMSFJ2w-LNPyBS-nC1hA4XAjok9HpuACYtT5aGkMmE7F1LYmuL0fxA3QDT0chNFLUwJDdviXpqpi-Ri3dMwqNv_SbrkmZGHAlFf_qNsyDYZBY98uQk9nRVFf8Y17bx1WFWY4sIlgCQSxqyGHvBjxZtvi3M7kJW-N0jz_duPVWbWuvYWYoKTEA=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72s5nocKpgSi56yCmXORYLkeDkyi5ZMUJZgiZ9Xm0qG4tzCxCY-p553VQaC4xr4oVHHfxa8CIDdoX8ZKIA6p_N057H4-5LMu1WiThDswOUYmcRbz_L9oy3DKHdldmTmHGej_EYq3o1h5INyEZ5YndP19kQ34Gm7mwODpNr6qQrxcYEHmO0XNr5iZ7ABbHkr22QAInyRUDld6=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tVSnq_D9YWxSH-sGqpTFdkcnbV2fmbrbQgIl-vw6VTI_VbdGsRp_eWMqdwH41PFdpG6UjcBHIYCCA0q3S5jnPEX0U_v5gtZK-8LSCtw-hMBt0VLCPL17XuEDXT47Io8tcfxkGmWDcfiBUxFy1mNWCbbZnC8Z1-v7XT_e426hwyoq0gL1c-FwUHo4h8zqo5lrvv3A=w1280"
+          }
+        ],
+        "links": [],
+        "text": "November 25th Research Team Dinner",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sBh7nGzjvwMneLWssauct3o1AQRo7MX51gyNb2Jl8S2tAZGQnEaOwp6mZhLNgt7Ou8voGniwBS2LiAZByGaXgetXCGkVONF4F6V6uBKGJvkZElhcoWV0qnqooTIDMSsVcxuN-uO6k-Aa52p2Zx12G6eTgcQ64xFIGdPx8X8uDqHaIB7zGpQeqzNtBOfdWKxz2XZA=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tdx4wdDXiKAnJAuEDzPpDTZFt6bjYTB0uXFpqF8VfptGLCitwmQyvkIhNn1x48WajrjUOph85f82QUpusYRMvuX-Wv-lZqPCCcLA8lMncQDppoiELpoexcgm7eT82VapVnoDFqllHfU_3Ris4XUxXsD6QuPSeiF40RK8rcH8FQaKlHU0wuI70SY_uxVlba9BBIpQ=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sz7SCA78KkVweLxOnj1RWEz8gO7aCjUyFWUwwtJThPBvINr0p9ScyBRVx3iRK6ALlRGHdwn7tVJX7KpxKo8dnnp7kMW5fGDA9NotQ3lw-VmVU6UFIpZqYx8m-uMH8HpCkoC-02Nm6QdHBNSBmrO4cuVauRtcojq4IlQdi_r8tHWvP2p4JJJWUgaYeVDHzX9dzU_Q=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sl9rH0L43e7DrFOCAD3BWCy9fcrKD2mYZ5WIesRcpWk0WbqLysmqbfNAatNxEoABbezGI0hNZFq81lS9R_-1Dv4_DERfKC--21bv8G6vJlvSvOgLFxQtcRTWsJfIfIyI_A29fma-Tpqq14LJ7ZqjddXSUpBe5pLy0ufXntd3neSd-hwhyaipcsz3S8TG3e6LF2qA=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tZTXpifHOxb-5dBpVVL1NCSdMJBPsg6nll21r4E6Er3PPeZ4-nIuImwPJwCktFQ3muZuh7iPtN-LtM2isySTFTIG6pcfup5u1lYHd_zB86uv9cPWrMhwWQ5qa5uWLPG1GlMAQ1Jc-1Jot6wW55nEnUIEktfvJbYlXk2ziUzQxsjksPGEYtJX8Aq1nqZDgXn49XoA=w1280"
+          }
+        ],
+        "links": [],
+        "text": "Thanks for your hard work !",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tmHazyVaafjYDpKV8sHsrpDgzJFWRxYpbfoDpER1sCQN15-g6GHrjxWp8J-fbVlecGhWaQq3xIrkmyhpZ14HFAU052L4JHnFl2xy9aJcsq5zKT0GRgphGMMReTxi4Y9TZ6s-09l09yDyc2mFNz-aZ0gFXuXjRdpuTsxpdB8fxXvYWuk8YewXlhAdMzmoOeXmE=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "Copyright ⓒ 2021 RiMS Lab",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sIE-5NHOHzzgpPNASe2aQ4iNyMRsZ2wj6w3u69Ii6t-qsqODhN6dlWhr25cF5sSO-hm6F0C4PtlLXEGn4hmWbB_t_h8NEPl9rNnAMaTsmk2_FASXDohA2Sc3kc7-pz40aCDMmt208LIaHj4y6YtGGcvsAK19XYSrrcJDJ0IOgBYS3ujhv2rISnV8hKyJSl8CPghkjSZMmNBDt7gBhCWQeGm7LFFqWweCNV=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vf2s0D-adeupT1DXU3FlNTtsUcYzJFRVYY6u6M9SWgE_dCi0dhbdDuA5ar4QSDk4dzWdV0NMgm41kc-wUEslkViJ4D_KdVm0K5iYX5s-qvG1nJFvLVS3wkOCunU7y1tgpKABx5a3nSBarAKv04iwryMLr8q3QUxCPBGW36zAIFvZ81RiG6Oygjxdgv4CFlsKrfklLePK3-5eQZpUqzgPDjsWg3I86Nuldp=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sT7Zmm1BIYE_LYyR2fl800phmgPSX6X8MDagLrGaadXIF6hedipRAlviaEChzBusX-_CwRv6AQQXFrErlX3qXzjVIIxpFRIjrTjWjMZNs9-J-tCZtbLCMqWRA46_yjZVCvpkehSLrMeMYztXBfFGnnIbkah4BcPflSCwBGXqFjUYcZx8n9cUt43VTPys9TI4MF-sR-CkAECwFoBS-j6BijQlzEwSNaEB-z=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      }
+    ],
+    "title": "Gallery",
+    "url": "https://sites.google.com/view/drshin/gallery"
+  },
+  {
+    "sections": [
+      {
+        "images": [],
+        "links": [],
+        "text": "Research",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vYYijzBx9zvQFev332G_diaHgYJ3bhKhSVBt6y0SHHyi1PUUs55QrzMkTswu-8Me8Wny3EV89jq41uxVEi5GYIJQdR2nlcwFGwTePM6sdXSJZSxZIpMzekkTrSnCWPDLcVGvCN_WZ_rdTGhT2yNmy9W1oSkQwreUkgJAq8NVS2fMrU_iPnAqhkfL6qs0dbGziKN1cwosK27wKAd8H9Mm9i-ExI4Ca3pQ=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tcBUCn5ZZsr3Do7h8dh9Xy-jqGxXUV9javKmKaaw5n0pr71_BzfgcZNFeOMqOaQc15LHmqdx8gVdrGbTrU-dsgeVyrid811bC6tfcHLck-CzRDkZJSrdNrhIViW0uM47X6bH2CSRkB5fNP4EcGCihFA7Ttn5ZppRnXlrrMeGfzFG2HrHMaLclWpcCBFhq88D4EO26rUOA9AS1q-mlvy0wSZWIWg3fm3g=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "Autonomous Vehicle Control",
+            "url": "https://scholar.google.co.kr/citations?view_op=search_authors&hl=en&mauthors=label:autonomous_vehicle_control"
+          },
+          {
+            "title": "AI-Powered Hybrid Control",
+            "url": "https://scholar.google.co.kr/citations?view_op=search_authors&hl=en&mauthors=label:ai_powered_hybrid_control"
+          },
+          {
+            "title": "Auto-ML",
+            "url": "https://scholar.google.co.kr/citations?view_op=search_authors&hl=en&mauthors=label:auto_ml"
+          },
+          {
+            "title": "Reinforcement Learning",
+            "url": "https://scholar.google.co.kr/citations?view_op=search_authors&hl=en&mauthors=label:reinforcement_learning"
+          }
+        ],
+        "text": "Research in Intelligent Mobility Systems (RiMS)\n\n Human-Centered Smart Mobility Themes \n\n#Autonomous Vehicle Control  #AI-Powered Hybrid Control  #Auto-ML #Reinforcement Learning",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uJI6Idv6ds5IZFWm3V0iRyWp0DOKLy0TnMr_aTK9s9tFIPGZPQVxxl-0eaQUG_mRgYeoLw0lPNFOnC_IQD9UN49li5wW0j76lObLpJrdYCS-lOgatWFWPEBvjJhSXfmsftwg-icEKD0JPCXCJsBnlmkbuMwglRVUNUxf-KiGMudA0lQsLao453WuisdixTk-3l-F9uDxmTxcZ3W6k2ksuWRTWQdSOx0g=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://www.gstatic.com/images/icons/material/product/1x/drive_2026_32dp.png"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": [
+          {
+            "title": "",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "Research Interests\n\n                    AI based Intelligent Mobility Dynamics and Control, including:\n\n-          AI-Powered Hybrid Control\n\n-          Indoor/Outdoor Localization\n\n-          Human-Like Naturalistic Driver Model using Deep Learning\n\n-          Radar Data based Moving Target Perception and Detection using Deep Learning\n\n-          Cloud/Edge and C-V2X (Vehicle to Everything) based Vehicle Safety Control\n\n-          Deep Reinforcement Learning for Motion Planning of Autonomous Vehicles\n\n-          Deep Learning Sensor Fusion\n\n\n\n\n\n\n\nOn-Going Research Projects\n\n\n\n\n[HMC] Research Projects of Hyundai-Kia Motor Group\n\no Title: 탑승자 이질감 저해요인을 고려한 인간운전자 드라이빙 패턴 모사 자율주행 AI-Agent 개발\n\no Responsibilities : Director of the project\n\n[HMC] Research Projects of Hyundai-Kia Motor Group\n\no Title: MDPS 토크 피드백 제어기의 외란 강건 성능 및 조향 성능 개선을 위한 제어 로직 고도화 연구\n\no Responsibilities : Director of the project\n\n[NIA] 인공지능 학습용 데이터 구축 사업\n\no Title: No 48. 4D Imaging RADAR dataset building section\n\no Responsibilities : Director of the project (컨소시엄 연구참여기관 연구책임자)\n\n [NRF] Korea National Research Foundation \n\no Title: Development of Elderly Driver Assistance Systems for Risk Management고령운전자의 운전 보조를 위한 안전 주행 제어 시스템 개발\n\no Responsibilities : Director of the project\n\n\n\n\nCompleted Research Projects\n\n [HMC] 현대자동차 (Hyundai Motor Company)\n\no Title: Mimicking Human Driving Pattern of Automated Vehicle using Structure Learning based on Artificial Neural Network for Enhanced Driver Acceptance인공 뉴럴 네트워크를 이용한 자율주행 자동차의 탑승자 이질감 최소화 맞춤형 드라이빙 패턴 모사 알고리즘 개발\n\no Responsibilities : Director of the project\n\n[MND] 국방부-합동참모본부 \n\no Title: 레이더 영상인식기반 해상표적인식 인공지능 알고리즘 연구\n\no Responsibilities : Director of the project\n\n[KATRI] 자동차 안전연구원\n\no Title: 수소버스 안전기준 국내 법제화 및 국제와 추진전략\n\no Responsibilities : Director of the project\n\n[KNR] Republic of Korea Naval Academy Research Institute\n\no Title: Development of collision avoidance algorithm for application to Autonomous Campus Shuttle\n\no Responsibilities : Director of the project\n\n[HMC] Hyundai Motor Company\n\no Title: Integrated Vehicle Safety System Research Laboratory International Collaborative Researches\n\no Responsibilities : V2X based Autonomous Vehicle Control, Sensor Fusion, Risk Predictions\n\n                                      (Collaborated with Stanford Dynamic Design Laboratory and U.C. Berkeley MPC Laboratory)\n\n [MOB] Hyundai MOBIS\n\no Title: V2X based Autonomous Driving Algorithm Development using Information Fusion\n\no Responsibilities : V2X Communication, Vehicle Demonstrations, Human reaction time research, Risk Predictions\n\n[HMC] Hyundai Motor Company\n\no Title: Development of Integrated Risk Management based Hyundai-Kia Super Smart Cruise Algorithm\n\no Responsibilities : Machine Learning, Vehicle Localization using Low-Cost GPS\n\n[KTC] Korea Automotive Technology Institute\n\no Title: Vehicle Active Suspension Control\n\no Responsibilities : Control algorithm design, Vehicle Tests, Ride Quality Investigation (Ride Comfort and Handling)",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "Copyright ⓒ 2021 RiMS Lab",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "Digital Chassis Twin Demonstrations",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v8lW49XcLE5RZgQEnV-_Isw6iQjZss6aXRnuKCH_JO-2MK4CgmIAIBwgMew_6lB_WguEQIGPe94TT-cPYrFC3atbVQyrUzX-cM4utrdEBG9-idCxEPT3eWbJ20Qu8b98KdwUl7mmwCXLbTOF7wAFiekRBpDvxJk-IZH9sNdMBZE7YKkh3kgcUOp0V01FSkh7hesjZWimrGqSd44DndbFTx_A6uKem_ppJ3=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vyqbcvEahIFnwPaQgLtm9RJC0LnUvmTYYA8Va5fuuqlrwlTLR5P9bw0jVBOzAhkVXnyz4jMsszuIa4qg7SeagMXO5fH6WzEf4yDFk2UNMENjO1cltbykwQ-pfLuxsnQTyQFr93Ve4oCD26xZFe7igT64cKuXU42nlqyyfxSaD3RKxWcIF5pKctxLzVu5N3afGOClimDDrEYs67zcWTmprzQpn900oe6Pyn=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tLLlr61WMCQONT--Ew0ti4JdwO9T2phUFPyW-EuIfaKyrYSZr78Q3owlN615cL4T3meo9nbDDy0FKF8maDt71ekN4Of3dSoa3MG29AmjMK-K07wpnYx88woYGSihsgPgGZMx_T3nfpIgTE9MSJiAd2widmLNX3NlAskTG4it2Kv5nFodZdr4G_aNZHd9P_EO46_NtSn9HyZeN7bBIr1K8VXLDcLrTS0g=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uh0nIviBsIkPn_w1PmJh7d6xm5qBXcttlT8RZVH8w7aViGMPsw7HlG97WOtjxRcYBmE4GVI_eU4-XKazb0YDyrd7wC3KuA-G33Oy9-VTRb_h6vBdDsLbpD9Ah0ccQ1yc45IRm1og4wHpOuMzX-XG33o4Zuw--JsjgjQkmwRpS55TvNV6rg-1USjotzkXA0i4Chjz_-CIu7BFmAd6GouQfd4JsY7tVCCVj6=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tQSGZCfgtY5o1PZSBtytvJl3Eq4TQ7NV0LhVzk6BXcf78h9BVvTzqS0Asf5-_VC6XfvDwuwXRQj5SjE_s5tcR_pfsS-XKzr9VFUDg0fHOzUSaCNGTs20waDA1pPNQ60u40HUoaxDeqw8RSpq7Fu3EaNp6aypv41A7sstdqxc5OPf21OTZ5cmHG9h_Hq0vtvxWWkx43JRfz6NOvL5kn9gttSmndUjZ4lz3H=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": [
+          {
+            "title": "",
+            "url": "https://www.youtubeeducation.com/embed/uBHFN2Wc46o?embed_config=%7B%22enc%22:%22AXH1ezlic_SwGurb9F1sGD2DL50j5ZqwKkacAV7qM4O9wedAL02EiCm_PAcXNXDQQOwXE-BSBl0KwA3WNyyMmsgT8YXO0qotoq0dbwuHTiUF35sycXzy2QAb0JFADoR9MeTeIPrvRUq9EsG877P1nNjSm_A17HaPF2-lwkO-I7DlrAUXtTSCdFECzbq1HTpTJan6llUyKhxCio7NH2M%3D%22%7D&enablejsapi=1&errorlinks=1&origin=https://sites.google.com&rct=CpcBAXH1eznPHQtAahhqsPiaPc0s5WngLc9UL8h-pHUVb0ovXTdeBOtCclhQhTxU5PfeS4ZlneO_S10EEthineS79sBZNLoLTC9fj_hYR6C_sh73zYKwjmQC4kwHteB70D5IBU_2pcyXqeyJOl8C8WJDn4fGyewJRsFA16IFHqKJVrhrAt4yUS_KaETcu4id9uJ0RwCHC9L_Ig%3D%3D&vl=1"
+          }
+        ]
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "2023 C-ITS Demonstration on KATRI Test bed",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "",
+        "videos": [
+          {
+            "title": "",
+            "url": "https://www.youtubeeducation.com/embed/r8OplIQbsrc?embed_config=%7B%22enc%22:%22AXH1ezkjhoIpGOQR7M7Scd7TZvDTr2Fn93hOlqL_uipjdy5MV1iZqRVteZuyPphY96M9jNInliaVTfIAWltW4F4dHpusr_CEcOf-KMirFVBkfdVNiXWLBLqsJzYQcER9iXA6QTRWKNt5O8MxaCCzmjZDSRT3mp1dl4dU5_HexZZU-9VlkTMcPpKAtpNLKQ5czyG-AChWcVTiii99hbU%3D%22%7D&enablejsapi=1&errorlinks=1&origin=https://sites.google.com&rct=CpcBAXH1eznUwvX9jC9be1uS2wRq0NhZFSPG1IMTTPR9ffsW7JwDcSnb5ODxxUuucZl3boVgxi6uH1yLBtYtpAkxT6OHKCIxhsnMWPCjlE9lLa7AI38omPjy9SlDOSY7tmg0ps5opojfLipPc217omfWGdFrwudHoJGMvEkhcdT8kYYKZeIAsHsEU8h1fG8KJclZge6EGpsW0A%3D%3D&vl=1"
+          }
+        ]
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tPjI0BU1Skwo0033PvycsLSQ7M6VsVJ07sXkHzpQo7-bBKsR4hzAEhEb_B1kWLGddqNR2ZtdpVMJgPWPuICQLYXvf1Rd-OEJNdrYxNWywLZx1-5OEXvWdXQG3nYgs5JhWGZHyJzYbfBj1SdkfKuuQO8V4rFymKrQ0_L7p6fWhO_zP-m8nE8bgJKiUBILtAqLgTBoDGid_qU0Po2e81p5ccB3qGWF_inkOX=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sRDtmxmOHxfKuTStFmOqYXfoGzT_hXGJ9DKJ9kecKtfyDFZLV-f5GFGnKZJbDr4_H33PYfTvYimGipKJ1nypL6TpfNnRDRdBgq3MAVLfzxtvgwPA8FVF3HfuaBhU3nE00sxU_iQw2NK5jbSn3u3MH0Z5UB6eIP-bgUFnN-J2oh-PrK_yOSzBHOz6n-RppkVVX1uhQz9SyzS1xmz4Om-J_B54RIwY0zPzTD=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uf2S0QHWkf36bBH8wq-O-IevRcqDm0HXaGkZHRHZOYR7M5uUnoaZC_Q4n3Ab5Cjhg-2hfdd26xmfD5zzpsDNmzxbZfwnmhTiWBb0jTZXp4zdFIQ8FePx8ySqVaC1OlXsOYx41fWWHdpwlcshIu_IN8SX-Y326imNAZ9dvukdnTJl0uEQCGNTNQDpbi1WgvjnKpltoT5dFg59HNVLOP1NhDkpd5PstQ_JO2=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vdsiqhS0Wk3J1PmTsJmKZZhEQQtKdyRXHvTBj5yVjwsCzWFBIVW8EiRhbzCTN4n-g8fa6ODq7IvAl4ftF1o7rKhXictv8aVRDMrnonbZMBR8EDOslRMgIYNKro5TduXsjnsfaHawJA32v91fIsl39wG-yk3ZsByTUeUHj6et6LjCW3fjozwp4ALuuTQ8-7kWLbVH1PLA=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "",
+            "url": "https://sites.google.com/view/drshin#h.p_QPxfcfboKvX1"
+          }
+        ],
+        "text": "Personalizing Driving Style of Automated Vehicle \n\n\n\n  For Seamless Training of Individual Driver\n\n  Imitates Every Single Driving Pattern using Neural Network\n\n  Creates Deep Neural Network for Imitation of Individual Driver\n\n  Optimization of Deep Neural Network using Architecture Search\n\n  Individualized Network Design for Every Single Driver\n\n  Automatically create neural network using Architecture Search\n\n  Efficient and Effortless Design Process while ensuring Training Performance",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72toiKYfbJQpc95ZyY7TnUtm5xjQCc85W1AE9CHYC9d8sEwz8_duWGpyKOmghEtCMlbOS37JjmA1gOGMaEEAQMx6TzV9cLNVoVLW8V5g4A9M4Dzo49VqE7liqpp8orkHTDbyAxcqe35HK_meK442U5hjfsPlnr_pu0mKSxiRC2qk0c7wm-TTt9wgpAwN6VQVDiPF-YIQGQ=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "",
+            "url": "https://sites.google.com/view/drshin#h.p_S3ZB29lGIGmT"
+          }
+        ],
+        "text": "Automated Delivery System through Unmanned Ground Vehicle \n\n\n\nResearch Issues :\n\nPerception using LiDAR / Camera,\n\nDecision by Deep Learning\n\nActuator Control through Robust Control/ Model Predictive Control \n\nApplications :\n\n Automated Food and Document Delivery Systems \n\n Provide Safety Guidance and Information Service interacting with Human",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u2_hXVrUZZlbkd_7OS7DYeCM8jmrPvLK6NPqggzxtuyrmpUDsKmYC_rk2a1JNZf8IdhRHL10OptFDQJ8gRHfKWfmE01fsoUMkkEaweLfnytBswnvAb9Y8GhNE2XUq2QEC_0CTgmmA3b240yRDaqNegXpx4Pxjmxz0vPUDy9R3HQvO0bEsVn2LWzaIaQpl07QTYGMFU6046=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "",
+            "url": "https://sites.google.com/view/drshin#h.p_q8iiIKa5GoZ3"
+          },
+          {
+            "title": "https://www.mdpi.com/2076-3417/9/19/4131",
+            "url": "https://www.mdpi.com/2076-3417/9/19/4131"
+          }
+        ],
+        "text": "Verification of the algorithm is carried out through anti-submarine high value unit (HVU) escort mission simulations \n\n\n\nTitle \" Design of Warship Simulation Using Variable-Chromosome Genetic Algorithm \"\n\nCollaborated with Korea Aerospace University & Naval Academy\n\nhttps://www.mdpi.com/2076-3417/9/19/4131",
+        "videos": []
+      }
+    ],
+    "title": "Research",
+    "url": "https://sites.google.com/view/drshin/research"
+  },
+  {
+    "sections": [
+      {
+        "images": [],
+        "links": [],
+        "text": "Vehicle Platform",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tbCRZw19ORNbk1XHCx64-TAVeTBLVBUDaoslqvghRmpLdxSqqwk9YAz8IiErzernBazBuJ9t0iuIlSmLYhBzsdgZmlwCslpViZlXtSfrWtP3MAm1zmwiskGIdukukJpT_z82kFrFjEJz0JruAUKUOOUdK0t6-O-dHR3B6XYLVB_mQIgXWfesMn7Qsmy9QzLjsL4BPxbTBp-Slq_-iqOYX7_CbnxkFBhCyo=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uL3fKQT3aYopv-Eg8kXreEjtPYfoXLju2HM1pRH5YTTob5nPuYBn250hL4JlhPUDGKgHCGLgtTtvfqTG1-k-eb741eynLWmpOX1gBxOfztj3wPDbui5TYcOHPvyc1Xl49tGZ3xZw070sjZbr2z16p44LfyoN64DtXtkAKzwHM3xeH7n1zXLz5W1vs0ZbD11jh6UhLBGZdVnIlGyThDammCXe7o1FYHLoot=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72ty9K6JnJpghEkjuzWoqKGzC5JxwIjRnt8RALiNZcRD2hxKiV2dZNDJcxZlL9MDQTe5nvJO3_Xivlmb9-T1KOFSktJd0cfg55m7Frt8JzHHcAmU_pFIhPeejrGePOooWpXLH_lm49TYbWcSprK4essirLy7Ci0MdASCk9GR17NyO0Q6-ZvHd9g0zH4WFbvoM2aJnpFwAodI25uK1pGOc7fCdxPjXvXcnAYD=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vT_e-A0m_kXTnozofvPx1T4HPoPktcMNc4Oy9R2a3XP4-Q24tYTTPgE79qebjAoiqG84UkI5FTK3Ub3QgTGbiJ5lDXcL1TC_q1QMeRTlQu2e_BqcImUOB8VltKRenugT3Qim9wOtOFLD5huC2rGQq7QMlc2b6mrEtyylMetHqiDUH08OF3n0dNXbubGCzYHYrSvqJt5IKHreMxEj78A2rG3qY3duJkSzEW=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "Copyright ⓒ 2021 RiMS Lab",
+        "videos": []
+      }
+    ],
+    "title": "Vehicle Platform",
+    "url": "https://sites.google.com/view/drshin/vehicle-platform"
+  },
+  {
+    "sections": [
+      {
+        "images": [],
+        "links": [],
+        "text": "Board",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "국토교통부(MOLIT) 2025 AI 자율주행 인증 관련 국회세미나 9월 개최!",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72ulDQR_xv5pplFb1J2ToDbYqjnds4Ajr9hmLg9vdjSUMkq3XqW5EB2mbK1tZTYRInv4yg2jOPkZV4xGLFyRleAqOP2k377-OKQNm2pqIKyrxtalpCTVCS66s_rHwWrpUE3HKNRg1hUwUdOrrPaPzUPLM3uqaQJm1WHFA8OpfFLurG3OB1K0_E8dedbcl8gjWCw01_ctJGF1RmIEJEi_zu2MOgzVGf58K6t2=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sZ-hFnWR58e6Nf-KxEImvcUDMD14lBRXU3ufPrgk-BZabHnZgqVk073N1UUXgDU6zAp9q1wgDtGyrzKjFS_yohCHsKZPjL7qkil4G04JWqVGLD08ubwUkgI3nfdJPtrsj-s0yyerQqK4f23v4tn_398SdeGjLlUBWpI46aFns0KXKqVVsfvOjVHDqaU9uze7lpG0IpnztPu8B1UAL1MlDf6Aakk5PWW0Mx=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sQvY5BaN2kPLsXMTEg3QfQ8-EUXXCDWjGVkWPmoptaldo59IdHKIv14zhKN1XARP8OjS82ntufIuhVoPmlBp6zZtCr5XE3knysOtqvw4CT4Rk48sG9YigrELN8w7cIupnH-JqxU8pOnVqfFhxjB9rKrMCY1c2g6r_iqV-eZS0uEs_O1nc-uKscrYo6eKppFQi3QuH2s2P578lK_n2CHbX2avbg197ZK3xU=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "ZERO 팀 2023 국토부 무인모빌리티 경진대회 종합 3위 '은상' 수상",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tv8sDEBKV0NP_UZZHnbgNL6Gd22T8GdK8_ivsl0CGru-tgjNZ5z1pb4UsiMk-4hMoGMSIN2uWo9H_XKGsr2RGCHwZxNjElBXf_i0r36z72Mks3ChRATr0Ni-TVA2VLesVvUxUlRcHYPePPRatZ9TyxFX2vxTSC4NBo-ruXARYNkiOWksnrZhW58SS4cMdNBBVelG-Trtb4jJBQfFLyMx_Gmc6KZ2Rx8vZR=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v4zcTN_Jc5wJN7MclVMJurzV7bBTI4KGRpfW1ubKmwHYHMnpIiagiLnBONXTA3AWWRB0D90qYS41Hqb7rcnYHktIDz0H1yO6B7b6IQ81iAHgBTpQBehJE6MDCnHxJfQZS8RuCIMfdDAdtHoXY8FwdBnjp5SlbtAyApTyQpxaDNneictAzZuOMAynUP0a2NvWG8EFoK7oa7B_BVszmF9C_ggsYqj3QGZg=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u2zLVWtwj0gcMD8VmecGqHX8H8064mj9Cz4Li910l3XRwpWZwsr7Ig2QF8IweY4b6zG7OCLPOKwR-s8Go0evODx1_wbPO-i6Aobl-TR9rPr-tOXzdxUTK6w-ZaC4t2octD3ejrEHs_Wyw0tLZUgFbED3db054B5QAPx-ZRLsVv-sV4O3SJfQMaEDQ-G5TgYZGhNO300e9rNZfVqlagPg5eTCA541K5C-ob=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vSip5fmoCP_ke0N49ldr54xb3Aca_v0a4i3yXgCGYb166ST4O6RCMtJEzeH-GxwbA0CtuatguaNV0V8vT8jJcUA0F0N6N5X5Qo3GjB7fsIlGlRhjC585cEFpGnMZDEEjyukDdLFbjjIb1F_DhezpU2stMW2gxwFB6GafgN1HlIHKBOPzU6uz0WKa-TqI_QLkrvROYFuFkR130KRodv-5pbEBBO3eJz-AuW=w1280"
+          }
+        ],
+        "links": [],
+        "text": "FROZEN 팀 2021,2022 자율주행 경진대회에서 2년연속 '우수상' 3개 수상",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72ugV-zUHVrIY_9azPygcnzZLH9UQP8UO7IIaxPImzTQfaAWaM0IpnZcoTXN3aFSxuDqBl7uaZtBG2lsOdOpQDItEE3sypc3Vyqvyrhkd3aeyewu8zvnygkahHObPqwecLutn9NPN2O0uIya9cR8Vs1XFi0AKgIWOpOkPhzLKLU2gWNMC4Wiij3Fk8cIB4zkYZnry7pDnnPFcIr1sK-vm0JzlRfchuMbFhuJ=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "",
+            "url": "https://www.google.com/url?q=https%3A%2F%2Fwww.chosun.com%2Fspecial%2Fspecial_section%2F2021%2F03%2F26%2FVYNHAHV7ZFF6TAJN277UN5QCEU%2F&sa=D&sntz=1&usg=AOvVaw3qU0HtAtRqNNKafUWEKixZ"
+          }
+        ],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tMWNFO7FTidV-e2q8t59kuOH-OYrSDocZihHV7gLkoMGRNKZPp9YIST0iUZdtks7W0zaHl8zAwDHmrQXx131VCTzs7NUcZIcSB94kbdf3NESdsKTEEM3S1TNijT0n_-fkdTSLBMWPICM-y_iQd_-bwBXbUdEX8MbfRNXg5X3cc4Cwkzqsz7eRLQkRw9yuD9qkP2h3Azb0U=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "",
+            "url": "https://sites.google.com/view/drshin/news#h.c8f13bmbbgi7"
+          },
+          {
+            "title": "https://www.mdpi.com/2076-3417/10/1/253/htm",
+            "url": "https://www.mdpi.com/2076-3417/10/1/253/htm"
+          }
+        ],
+        "text": "Special Issue is published\n\n\n\nTitle: Development of Deep Learning Based Human-Centered Threat Assessment for Application to Automated Driving Vehicle \n\nAims for Naturalistic Driving Behavior of Automated Driving Vehicle\n\nCollaborated with Korea Naval Academy and Seoul National University\n\nhttps://www.mdpi.com/2076-3417/10/1/253/htm",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72taXqEOez7Lw-aZLvMqfDTcuZ1mhN3YCud-tKi4hnq-nNIzehmmqN7QsJeRnUX_8d2s4wYaciyDU_Fy9zZMMCzAKumjbvbVHtmA2VGyzVSVojh2uT2gTWOqW-wBts7Td9n9vCG5MxWtjIxVNKcl_gdxNP4C5yF3Cqipd3Gj7i78v4xhDRgyQFGMOKgleUnukbXImMjxvVD3mtR3xN0gsxAl_HSbA0rkvn-u=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72s0r0SUQTrxffqFYo_5-by3fkL74hNKkCNoFZTY3AqXIC-04vQmRO7QoaDW4Cw_sLwpfeLvliKUyZzcBNwEd8pivBN5_pgKVqbtTIfe3pNDphAtKNnTBpMJRS4I_rkNuICPBAid7pgKZEbpglvvK45zaGGN9wKA3e9D_P7Baz9GlkQ3gymGrQBOOpVPM-W6kulixWMRz87n8Xf6DuR0IT75LfaxO_6p3jOE=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vT8RzoE-p8OANHS-J19hsVpKnGcv98b98F7SrA7_iSEiruMDK9SzaZ7SIQP9MPnQW6mRAXSho_Qjq3jtpCk0V9mYfXQEbvJDY3Aesg7vs1khi2m9q9TXu9L8YXuoIzFwBr-7wZcEcdLeaBCVf68PbhPYncguuUBtE0G7snrhteFGvSh0CSbugD7ZDqW6YL5UTW-RijZWzEbUthF6WP2qDIMjuue-rCn53J=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72ujrDYbqVdj3pUHJuE40Ui9-9IYFYkUA4GC-oVQZdSFwd57QA7R5lTDRJ8EwHd6T9pWJIMfd-ZX56madGHLTWa_ZnCaMxOco7vcfNuRDS6t6JbYzUp9ZAgMziVEN5YQkndzRmaGJkVINWPxEGZqTFyt1gKYMCSw55mhApPPssRReWm3sNN7wGiYW_ugKHpAJyGFBnpytXkinjEgBaaNVb3rSppy6sqO7g=w1280"
+          }
+        ],
+        "links": [],
+        "text": "(출처: https://news.joins.com/article/23926072#none)",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uxxZto-wS6v4KQETwMYTW28Z0mRDZZgywVcVoj___QxUx_8SSWAKCC0_SbkKq1W1gsXoX-iKxnewS6VTgk0CVw7vk6r2kXigIWUhypVlIv47nVD6n6bONF_sTmoIQnlVH4P_FrqJZJBxQ8YYpZVAChLonD9ggCbJxAz34asz4ddMKznOXovC22Qjh9GYtU9iCcAhv2GA=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vHbGKq-FY-exUBZgm0d7TQYZFcDegIm8kHFqUlk_UmlgPM7pmWTSHoTCR9tkQJQD02buTjEGgQFC-2h-DPs8JiepGWmw5WqxV9ble7AW6ZLEq4hYVBrlcwHMHhlE19PxLkUDWGXndqevfJuws4slbbpK5rhO-l1z70WcOJ3hAXdQWeBhx61Crl47QXsPp8Qb7Z1g_450u6QW7nmaC7f7IJABR49sc--BBv=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u8xjjeNF3dJXFEU0lWZTRlmia14tX_xTUrRpAQX4DvHeIKSfEYZskis1LdH6rcb6nKCOtXFyoQxGNc_kwN4TGOEMnmdt4zRhb0n7BuYHWRn-vTJKyS4pAVeDnZQ86FDzztAOY3eQGM3b4wugVwmvmKlwyC6qbECc8ZptM-OU6tH6Gyod7wqRAbTW4E2L3IUDWfXHRJqL6Q61o-RgZW--JAsV4ftq-ekoq_=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uB5TObJbNYYJ5RWMGg_WJ5md9PBg1q-XOaJFdTcIrM8vDYc8d6OReH-TrvhPLBOuebkFZijuGeDQU18zJ3Q8b9usi6zYNeJzVLo75tr5RXWAOwFtdpglAZ8wd1KQAhvF3B_cI6fx_D0LbkehSzLyEateqLHbf0u4yjKKokitSyZ-US-IK8cjtWtG1j5qFzhr74DUUuIs8Q8Nqhmiq6vkUJzSU8ab3kzTpB=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vTs0qs-svt65XRJ1WjLvyCaUszohYK5pu5g6AALF7uHGUr-G40LSbIpCNXsv1gUb8qQ694DSOA6NLgS6N4wNHRulsbAogc9OOqZ9JF0CKQGQrPMXoA4QeKH9MIrvAr7hlepF_e-iXgqz18eEZoWO60uTxjNdICeq2vMPDtqD2DVSf1iXd46tw0SJFuwmffnVx7lQPQWMhQfQiluRv1zmFgofEV2zgeubK_=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u2lS-dQvVG5LMWkzbyaybsafdRTyChi-DH691LIvhL-dTI572ptJ7wcCPkghveZS99iH2C5dtFcv2eICqaLKz3jirUnA6zGbxPcwKOlvmYmpc52bAURglrCPd7u-S-7K6Vf7pbsOz9dc_XkAzrsQbz2kqgvHVdE7l55ps8kRGObDiaMWtXrSDnnrZVTTF7UVyxq3h4nxSUI_W_MR37IgJrwOPK92KYGl1c=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "",
+            "url": "https://www.google.com/url?q=https%3A%2F%2Fwww.mk.co.kr%2Fnews%2Fspecial-edition%2Fview%2F2021%2F03%2F272733%2F&sa=D&sntz=1&usg=AOvVaw0mNUJrSyeeSjv4lCk9-mhz"
+          },
+          {
+            "title": "",
+            "url": "https://www.google.com/url?q=https%3A%2F%2Fwww.donga.com%2Fnews%2FSociety%2Farticle%2Fall%2F20210330%2F106149043%2F1&sa=D&sntz=1&usg=AOvVaw1DsDtr2XF9ZSnAncgu4gXV"
+          }
+        ],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vONeWqWQXGydN1WXdCULePyNEyCINDjxA0HPBX09le8fyq_vtv1sco2HyR0YBSAVjS04HZNMaVTOWQ6gLAqUz9Z-ZMDjjcYf6TEUj8tUzPM_uULNGuEPmUpnPHW99M1lUD2qdN0HKW7lTtHWCksZrB0YguwuYRBTEtbUuGksFt_qrOMSKBLJK3XAT0fgIcj3OYtxM5n8WQ=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72subkJTmC4o3ATbT9YwVERm4rU4g7cVq9kRcaxybl-stxZxK4HP4VSIYtfETTo76cx5e7KvSo1yWQ8b7qxeEHGzWX4S7980B5ZE0N0Vzbs9hc8a4dNVTS0JBJwzbyjhfDVFNTa8ikt4hJHA94H0gBJ0tGEU5CERpKq612IBt7OUvfaFh_ihP0DxhZZjbXQqEULKAWt7FA=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v0KaPG-UdE6B6sDhI9qoO15ZJcroIQeqC5vyqJCJ1VVc0vzlpR8YU3alcuMwhK5XlqIAYbDiGFIEyWB38ahGuyUCd6UqZx8opnlbVjTDQU2URezJElfarbqeT7YzWSKHROkin5OZnVfinuUadSXnA9F2J9aSG9WoNbCkw_b9qAypcsMeC27TzJwH8PDwdi9AY7NfrkgA=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [
+          {
+            "title": "",
+            "url": "https://sites.google.com/view/drshin/news#h.p_-bNrebZfa2Pk"
+          }
+        ],
+        "text": "자율주행차, 이제 출발 [http://www.kunews.ac.kr/news/articleView.html?idxno=23908]",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sNx3XQLfxxB3si5o3cAPIrSmtvWo6aHh2Q6E-dxY-kTEDcQAi-Ni1zWjwFoDBk51O2hPAbED3exTUAE7fZxg5v5p7RWyV1qWDz1lZLZu3U1fd7xfyMWEw77JgkhUQSU08yWMxtX9sa-AIk2_wpayc1fuI2-VnmbRLHruKBP7L-u3hClB02WtjvvNA1FtY21_umcg=w1280"
+          }
+        ],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://lh3.googleusercontent.com/docsubipk/AP9E6xUM3954fWqw-dHlSHaxveUB0l_iwiA3IBV9E7OnXpgiKlfP-sQw1rQ6RWa-E3-nl5S8_ibbCCKkO7AsVYy60_cx-1IGfgii8buAfBDlECk4XqUl7nXdSw"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vOdASRAiQUdcADgF4uaXS5PFOGHjwDLFNtO-2iq14LM48mgrY5A4pODcBXdf9g_NBnnpE2ZN9uuuN5fEWnl2cCUc10-Udh5dJGck6OqmRYVT9edVhLSWyPwtIheElX4UROmNtm_rG8aimWgbkTYB6Q59ecpzpNzKylHXMM6LniQvHdVPZ0h7jZieIFw9GFZzRT5g=w1280"
+          }
+        ],
+        "links": [
+          {
+            "title": "호남대 프라임사업본부, 미래자동차 전문가 초청 특강\n\"해군사관학교 신동훈 교수, ‘자율주행 자동차와 미래사회’\" [아시아경제 노해섭 기자]호남대학교 프라임(PRIME)사업본부(본부장 정영기)는 9일 지성관 6312호 강의실에서 ‘자율주행 자동차와 미래사회’라는 주제로 미래자동차분야 전문가 특강을 실시했다. 해군사관학교 신동훈 교수를 초청해 실시된 이날 특강에는 미래자동차 분야에 관심을 가진 학생 등이",
+            "url": "http://www.google.com/url?q=http%3A%2F%2Fv.media.daum.net%2Fv%2F20161109160710111&sa=D&sntz=1&usg=AOvVaw38UtLvQOTSWdoxnC9a9n_T"
+          }
+        ],
+        "text": "호남대 프라임사업본부, 미래자동차 전문가 초청 특강\n\"해군사관학교 신동훈 교수, ‘자율주행 자동차와 미래사회’\" [아시아경제 노해섭 기자]호남대학교 프라임(PRIME)사업본부(본부장 정영기)는 9일 지성관 6312호 강의실에서 ‘자율주행 자동차와 미래사회’라는 주제로 미래자동차분야 전문가 특강을 실시했다. 해군사관학교 신동훈 교수를 초청해 실시된 이날 특강에는 미래자동차 분야에 관심을 가진 학생 등이",
+        "videos": []
+      },
+      {
+        "images": [],
+        "links": [],
+        "text": "Copyright ⓒ 2021 RiMS Lab",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sjEvW3dWJMbpdvXaPGO86LGV4XTh4r6rsCxH5Z_4VVjkwQQ9A2_zZZvEmpF_f3nBCxoqUtshjIQsyYyIuZwMWj8cquvXGwGXFLDj5vYXC1zhwKs0RjG2gCAbOpmqyNeeKd70EZFza-HM29vO9PblRtFXz8lZPxk-FwwqY_V0JJzSLtde_vP2kvBBVM2lGpefHpPlSntZjiCpLfUHQx8Wslc6J6sQvAdWeS=w1280"
+          },
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uAYQNxFhdUvMo3RJLm0JFQujYOQKTvumoPafbIrgnOqG-TsgaKCIRBSWgqAGYr2btGH11q3gc_qzRbIeFRhTF6LonAah4KMNcsNd-DiZh_wZcbPu6M1dON_4BEQb-P4ZdVL9e-zNCSjI8r_w7Zl-6PC3ojbXu4s7waoEr0Qeqbds5oYQmS9jkCyoj7hNo1oxwb7Vbx78TX-W2o3VLIBTfvjFQcO-eDvw=w1280"
+          }
+        ],
+        "links": [],
+        "text": "Our Research is selected as an Outstanding Research of Hyundai-KIA",
+        "videos": []
+      },
+      {
+        "images": [
+          {
+            "alt": "",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u91HuHKRVLEdWWtg15SDfH0oB7Fe0rclYleoF7oSFWVVQRmxGISy-PIHvD7GVzllyYLbVpVjWI9uIhSdqDo8dwe0cZ2NsLp6qpK5ZlCRxSYfHfhL1UfIN-ehOh4dUxjJqPgYBGEjisgYuRuCR7f6OCYq-l_MpILAFI3GmKQPuHxIKJ17uF-UQsX_73VFvORreKa8etFzcze-sEUfqWFUg9mSLeBfNGEv8x=w1280"
+          }
+        ],
+        "links": [],
+        "text": "Congratulations! Research Project with Hyundai-Kia has been Initiated ('22. July)",
+        "videos": []
+      }
+    ],
+    "title": "News",
+    "url": "https://sites.google.com/view/drshin/news"
+  }
+]

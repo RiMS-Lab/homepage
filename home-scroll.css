@@ -1,0 +1,238 @@
+
+.home{display:block;height:auto;min-height:100svh;background:#fff;color:#242924}
+.home .site-header{height:88px;position:sticky;top:0;background:#fff;border-bottom:1px solid #eceeeb;padding-inline:5%}
+.home main{display:block}.home .brand-description{font-weight:400}
+.home nav{font-size:13px;font-weight:500}.home nav a{padding:29px 0}
+.intro-clean{max-width:1120px;margin:auto;padding:112px 40px 122px;display:block}
+.intro-copy{max-width:860px}
+.intro-university{font-size:14px;color:#777f75;margin:0 0 24px;letter-spacing:0}
+.intro-clean h1{font-size:clamp(35px,4.4vw,60px);line-height:1.25;font-weight:600;letter-spacing:-2px;margin:0 0 26px;color:#252d23}
+.intro-subtitle{font-size:16px;line-height:1.8;color:#7b8276;margin:0 0 30px}
+.intro-more{display:inline-flex;gap:30px;align-items:center;border-bottom:1px solid #70bf4e;padding:7px 0;font-size:13px;color:#385a2b}
+.intro-more:hover{color:#508d35}
+.research-clean,.news-clean{max-width:1120px;margin:0 auto;padding:60px 40px}
+.research-clean{border-top:1px solid #e5e9e1}
+.research-clean h2,.news-clean h2{font-size:27px;font-weight:600;letter-spacing:-.7px;margin:0 0 32px}
+.research-clean-grid,.clean-news-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.research-card,.news-card{display:flex;flex-direction:column;background:#fff;border:1px solid #e2e6df;min-width:0;transition:transform .2s ease,box-shadow .2s ease}
+.research-card:hover,.news-card:hover{transform:translateY(-3px);box-shadow:0 12px 30px #33422b12}
+.card-image{aspect-ratio:3/2;overflow:hidden;background:#eef1eb}
+.card-image img{width:100%;height:100%;display:block;object-fit:cover;transition:transform .3s ease}
+.research-card:hover .card-image img{transform:scale(1.02)}
+.card-body{padding:30px 28px 27px;display:flex;flex-direction:column;flex:1;min-height:230px}
+.research-card .card-body{padding:21px 22px;min-height:78px;flex-direction:row;align-items:center;justify-content:space-between;gap:18px}
+.research-card .card-body h3{margin:0;font-size:16px}
+.research-card .card-body>span{margin:0;color:#70bf4e;font-size:16px}
+.card-body h3{font-size:18px;font-weight:500;letter-spacing:-.4px;margin:0 0 13px;line-height:1.5}
+.card-body p{font-size:13px;line-height:1.75;margin:0 0 22px;color:#7b8276}
+.card-body>span:last-child{font-size:11px;color:#557343;margin-top:auto}
+.news-clean{padding-top:40px;padding-bottom:100px}
+.clean-section-title{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:20px}
+.clean-section-title h2{margin:0}.clean-section-title>a{font-size:12px;color:#7b8276}
+.news-card .card-body{min-height:185px}
+.news-card .card-body h3{font-size:15px;line-height:1.65}
+.card-label{font-size:9px!important;letter-spacing:1.5px;color:#70bf4e!important;margin:0 0 12px!important}
+.card-arrow{font-size:11px!important;color:#6e7968!important;margin-top:auto!important}
+.home footer{padding:35px 5%;display:flex;justify-content:space-between;align-items:center;gap:30px;background:#f6f7f4;border-top:1px solid #e6eae0}
+.home footer>.brand-mark{display:block;font-size:30px}
+.home footer strong{display:block;font-size:11px;font-weight:400;color:#65715d}
+.home footer>div:last-child>a{display:block;font-size:11px;color:#65715d}
+.home footer p{margin:5px 0 0;font-size:10px;color:#909a87}
+@media(max-width:1250px){.home nav a{padding:12px 0}.home nav{background:#fff}}
+@media(max-width:760px){
+.home .site-header{height:76px;padding-inline:6%}
+.intro-clean{padding:75px 7% 82px;display:block}
+.intro-university{font-size:11px;margin-bottom:22px}
+.intro-clean h1{font-size:clamp(33px,7vw,46px);letter-spacing:-1.2px}
+.intro-subtitle{font-size:14px;margin-bottom:24px;max-width:340px}
+.research-clean,.news-clean{margin-inline:7%;padding:40px 0}
+.research-clean-grid,.clean-news-grid{grid-template-columns:1fr;gap:24px}
+.research-clean h2,.news-clean h2{font-size:24px}.news-clean{padding-bottom:65px}
+.home footer{align-items:flex-start;flex-direction:column;padding:30px 7%;gap:20px}}
+
+/* Home: pure black canvas with restrained green accents. */
+.home{background:#000;color:#f1f4ef}
+.home .site-header{background:#000;border-color:#242925}
+.home nav{color:#d4dad3}
+.intro-university{color:#879188}
+.intro-clean h1{color:#f4f7f2}
+.intro-subtitle{color:#99a39a}
+.intro-more{color:#8dce70}.intro-more:hover{color:#b1e49b}
+.research-clean{border-color:#252b27}
+.research-clean h2,.news-clean h2{color:#f2f5f0}
+.clean-section-title>a{color:#8d978e}
+.research-card,.news-card{background:#0b0e0c;border-color:#2a302b}
+.research-card:hover,.news-card:hover{box-shadow:0 14px 36px #000,0 0 0 1px #70bf4e44}
+.card-image{background:#050605;border-bottom:1px solid #242a25}
+.card-body h3{color:#edf2ec}
+.card-body p{color:#99a39a}
+.news-card .card-body{background:#0b0e0c}
+.card-arrow{color:#9fb398!important}
+.home footer{background:#050605;border-color:#242925}
+.home footer strong,.home footer>div:last-child>a{color:#bac3bb}
+.home footer p{color:#7f8980}
+@media(max-width:1250px){.home nav{background:#050605}}
+
+/* Tall, rounded research and news cards. */
+.intro-clean,.research-clean,.news-clean{max-width:1240px}
+.research-clean-grid,.clean-news-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
+.research-card{display:flex;flex-direction:column;border-radius:22px;overflow:hidden}
+.research-card .card-image{aspect-ratio:4/5;min-height:0;border:0;border-bottom:1px solid #242a25}
+.research-card .card-body{min-height:150px;padding:25px 24px}
+.research-card .card-body h3{font-size:clamp(17px,1.55vw,22px);line-height:1.35;letter-spacing:-.5px}
+.news-card{border-radius:22px;overflow:hidden}
+.news-card .card-body{min-height:320px;padding:27px 26px;display:flex;flex-direction:column;align-items:flex-start;gap:0}
+.news-card .card-label{margin:0 0 42px!important}
+.news-card .card-body h3{margin:0;font-size:18px;line-height:1.6}
+.news-card .card-arrow{margin-top:auto!important;white-space:nowrap}
+@media(max-width:760px){
+ .research-clean-grid,.clean-news-grid{grid-template-columns:1fr;gap:18px}
+ .research-card{border-radius:17px}
+ .research-card .card-image{aspect-ratio:4/5}
+ .research-card .card-body{min-height:110px;padding:20px 22px}
+ .research-card .card-body h3{font-size:17px}
+ .news-card{border-radius:15px}
+ .news-card .card-body{min-height:240px;padding:22px}
+ .news-card .card-label{margin-bottom:30px!important}
+ .news-card .card-body h3{font-size:15px}
+}
+
+/* Pull the wordmark closer to the left edge. */
+.site-header,.home .site-header{padding-left:max(14px,2vw);padding-right:max(24px,4vw)}
+
+/* Keep the full navigation visible without a menu button on wider screens. */
+@media(min-width:861px){
+ .site-header,.home .site-header{gap:18px}
+ .menu-toggle{display:none!important}
+ .site-header nav,.home .site-header nav{display:flex!important;position:static;inset:auto;background:transparent;border:0;box-shadow:none;padding:0;margin-left:auto;gap:clamp(11px,1.35vw,22px);font-size:11px;white-space:nowrap}
+ .site-header nav a,.home .site-header nav a{padding:29px 0!important;font-size:11px!important}
+}
+@media(max-width:860px){
+ .site-header nav,.home .site-header nav{top:100%}
+}
+
+/* News imagery supplied for the three featured homepage stories. */
+.news-card-image{aspect-ratio:4/3;overflow:hidden;background:#080a09;border-bottom:1px solid #242a25}
+.news-card-image img{display:block;width:100%;height:100%;object-fit:cover}
+.news-card .card-body{min-height:230px}
+
+/* Footer identity and location. */
+footer,.home footer{display:grid;grid-template-columns:auto minmax(230px,1.1fr) minmax(350px,1.7fr) minmax(190px,.8fr);align-items:center;gap:clamp(28px,4vw,68px);padding:46px max(24px,5vw)}
+.footer-brand{display:flex;align-items:center;gap:18px;white-space:nowrap}
+.footer-kmou{display:block;line-height:0}
+.footer-kmou img{display:block;width:74px;height:74px;object-fit:contain}
+footer .footer-brand .brand-mark,.home footer .footer-brand .brand-mark{display:block;font-size:38px}
+footer .footer-about strong,footer .footer-location>strong,footer .footer-contact>strong,.home footer .footer-about strong,.home footer .footer-location>strong,.home footer .footer-contact>strong{display:block;color:#edf2ed;font-size:16px;font-weight:650;line-height:1.4;letter-spacing:.01em}
+footer .footer-about p,footer .footer-location p,footer .footer-contact p,.home footer .footer-about p,.home footer .footer-location p,.home footer .footer-contact p{margin:8px 0 0;font-size:14px;line-height:1.55;color:#a9b3aa}
+.footer-location .location-address{color:#c9d1ca;font-weight:600}
+.footer-contact a{color:#dce4dd}
+.footer-contact span{display:inline-block;width:20px;color:#70bf4e;font-weight:700}
+.footer-contact .footer-copyright{margin-top:16px;font-size:12px;color:#788279}
+@media(max-width:1050px){
+ footer,.home footer{grid-template-columns:auto 1fr;align-items:start}
+}
+@media(max-width:620px){
+ footer,.home footer{grid-template-columns:1fr;padding:32px 7%;gap:22px}
+ .footer-kmou img{width:64px;height:64px}
+}
+
+/* Dedicated visual hero for the main landing page. */
+.intro-clean{
+ position:relative;
+ isolation:isolate;
+ max-width:none!important;
+ min-height:clamp(570px,72vh,760px);
+ padding:clamp(92px,10vw,145px) max(6vw,calc((100vw - 1240px)/2));
+ display:flex;
+ align-items:center;
+ background-image:
+  linear-gradient(90deg,rgba(0,0,0,.96) 0%,rgba(0,0,0,.78) 38%,rgba(0,0,0,.22) 72%,rgba(0,0,0,.08) 100%),
+  linear-gradient(0deg,rgba(0,0,0,.46),transparent 45%),
+  url('assets/home-hero-mobility.jpg');
+ background-size:cover;
+ background-position:center;
+ border-bottom:1px solid #252b27;
+}
+.intro-copy{position:relative;z-index:1;max-width:790px}
+.intro-university{font-size:14px;font-weight:600;letter-spacing:.05em;color:#aeb7ae;text-shadow:0 2px 18px #000}
+.intro-clean h1{font-size:clamp(44px,5vw,68px);line-height:1.12;letter-spacing:-2.4px;max-width:800px;margin-bottom:26px;text-wrap:balance;text-shadow:0 3px 28px #000}
+.intro-subtitle{font-size:16px;line-height:1.8;max-width:600px;color:#c4cbc4;text-shadow:0 2px 18px #000}
+.intro-more{font-size:13px;font-weight:600;color:#9ed986}
+.intro-clean h1+.intro-university{margin:0}
+
+@media(min-width:861px){
+ .site-header nav,.home .site-header nav{font-size:15px;gap:clamp(14px,1.45vw,25px)}
+ .site-header nav a,.home .site-header nav a{font-size:15px!important;font-weight:600}
+}
+
+@media(max-width:860px){
+ .intro-clean{
+  min-height:620px;
+  padding:84px 7% 78px;
+  align-items:flex-end;
+  background-image:
+   linear-gradient(90deg,rgba(0,0,0,.9),rgba(0,0,0,.35)),
+   linear-gradient(0deg,rgba(0,0,0,.94) 0%,rgba(0,0,0,.35) 62%,rgba(0,0,0,.18) 100%),
+   url('assets/home-hero-mobility.jpg');
+  background-position:62% center;
+ }
+ .site-header nav a,.home .site-header nav a{font-size:16px!important;font-weight:600}
+ .intro-university{font-size:12px}
+ .intro-clean h1{font-size:clamp(38px,10vw,50px);line-height:1.12;letter-spacing:-1.5px}
+ .intro-subtitle{font-size:14px;line-height:1.7;max-width:420px}
+}
+
+/* More compact card captions with clearer type. */
+.research-card .card-body{min-height:108px;padding:22px 24px}
+.research-card .card-body h3{font-size:clamp(20px,1.65vw,24px);line-height:1.3}
+.news-card .card-body{min-height:205px;padding:24px}
+.news-card .card-label{margin-bottom:22px!important;font-size:10px!important}
+.news-card .card-body h3{font-size:20px;line-height:1.5}
+.news-card .card-arrow{font-size:12px!important}
+@media(max-width:760px){
+ .research-card .card-body{min-height:92px;padding:18px 20px}
+ .research-card .card-body h3{font-size:20px}
+ .news-card .card-body{min-height:175px;padding:20px}
+ .news-card .card-body h3{font-size:18px}
+}
+
+/* Simple captions that sit directly below the card imagery. */
+.research-card .card-body,.news-card .card-body{min-height:0;padding:20px 22px;display:block}
+.research-card .card-body h3,.news-card .card-body h3{margin:0;line-height:1.42}
+.research-card .card-body h3{font-size:21px}
+.news-card .card-body h3{font-size:19px}
+.research-card:hover .card-body h3,.news-card:hover .card-body h3{color:#9bda80}
+
+/* Compact footer. */
+footer,.home footer{gap:clamp(22px,3vw,48px);padding-top:25px;padding-bottom:25px}
+.footer-kmou img{width:58px;height:58px}
+footer .footer-brand .brand-mark,.home footer .footer-brand .brand-mark{font-size:34px}
+footer .footer-about p,footer .footer-location p,footer .footer-contact p,.home footer .footer-about p,.home footer .footer-location p,.home footer .footer-contact p{margin-top:5px}
+.footer-contact .footer-copyright{margin-top:10px}
+@media(max-width:620px){
+ footer,.home footer{padding-top:26px;padding-bottom:26px;gap:18px}
+}
+
+/* Compact four-line lab name beside the RiMS wordmark. */
+.site-header .brand{gap:15px}
+.site-header .brand-description{display:block;width:auto;min-width:86px;padding-left:14px;border-left:1px solid #303631;font-size:11px;font-weight:600;line-height:1.12;letter-spacing:0;color:#c8d0c9}
+@media(max-width:1100px){.site-header .brand-description{display:none}}
+
+/* Final home alignment: one-line hero, centered research labels, and a disciplined footer grid. */
+.intro-copy{width:100%;max-width:none}
+.intro-clean h1{max-width:none;white-space:nowrap;font-size:clamp(36px,3.65vw,64px);line-height:1.08;letter-spacing:-2.8px;margin-bottom:18px}
+.research-card .card-body{min-height:92px;display:flex;align-items:center;justify-content:center;text-align:center;padding:18px 22px}
+.research-card .card-body h3{font-size:21px;line-height:1.32}
+footer,.home footer{grid-template-columns:220px 350px minmax(430px,520px) 220px;justify-content:center;align-items:start;column-gap:52px;row-gap:24px;padding-inline:32px}
+.footer-about,.footer-location,.footer-contact{padding-top:3px}
+.home a[aria-disabled="true"]{cursor:default}
+.home a[aria-disabled="true"]:hover{transform:none}
+@media(max-width:1550px){footer,.home footer{grid-template-columns:190px minmax(250px,1fr) minmax(380px,1.5fr) 210px;column-gap:28px}}
+@media(max-width:1100px){footer,.home footer{grid-template-columns:minmax(220px,1fr) minmax(320px,1.5fr);justify-content:stretch}}
+@media(max-width:860px){.intro-clean h1{white-space:normal;font-size:clamp(38px,9vw,54px);letter-spacing:-1.7px}}
+@media(max-width:620px){footer,.home footer{grid-template-columns:1fr}}
+
+/* Hero affiliation readability */
+.intro-university{font-size:16px;margin-left:3px}
+@media(max-width:860px){.intro-university{font-size:13px}}
+

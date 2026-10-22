@@ -1,0 +1,160 @@
+/* RiMS: a restrained academic identity. Brand RGB 112 / 191 / 78. */
+:root{--ink:#20251f;--muted:#747a72;--line:#e6e9e2;--paper:#f6f7f3;--brand:#70bf4e}
+body{color:var(--ink);background:#fcfcfa}
+.site-header,.home .site-header{background:#fcfcfa;padding-inline:5%;border-bottom:1px solid var(--line)}
+.site-header{height:92px}
+.brand{gap:18px}.brand-mark{font-size:40px;font-weight:800;letter-spacing:-2.2px;color:#70bf4e}
+.brand-description{color:#40473e;font-size:11px;line-height:1.5;width:175px;border-color:#dce2d6}
+nav{font-size:12px;gap:23px;font-weight:500}
+nav a{padding:32px 0;border-bottom-width:2px}
+nav a:hover,nav a[aria-current]{border-color:var(--brand);color:#20251f}
+.home{height:100svh;min-height:590px;background:#fcfcfa}
+.home .site-header{height:92px;flex-basis:92px}
+.home main{display:flex;flex:1;min-height:0}
+.welcome{width:100%;max-width:1600px;margin:auto;display:grid;grid-template-columns:minmax(0,1fr) 245px;gap:7%;padding:35px 7%;align-items:center}
+.welcome-kicker{display:flex;align-items:center;gap:11px;font-size:9px;letter-spacing:1.9px;color:#737d6c;margin:0 0 28px}
+.welcome-kicker>span{width:7px;height:7px;background:var(--brand)}
+.welcome h1{font-size:clamp(42px,min(5.35vw,8.1vh),82px);letter-spacing:-3.2px;font-weight:500;line-height:1.13;margin:0 0 27px;color:#242b21}
+.title-prefix{display:block;font-size:.51em;font-weight:400;letter-spacing:-1px;margin-bottom:11px;color:#596253}
+.title-green{color:#70bf4e}.title-period{color:#70bf4e}
+.welcome-description{font-size:14px;line-height:1.8;color:#737c6d;margin:0 0 30px}
+.welcome-actions{display:flex;align-items:center;gap:32px}
+.welcome-button{display:inline-flex;align-items:center;gap:32px;padding:14px 20px;border:1px solid #292f25;background:#292f25;color:white;font-size:12px}
+.welcome-button:hover{background:#426335;border-color:#426335}
+.welcome-button>span{font-size:18px;line-height:1}
+.welcome-link{display:inline-flex;gap:24px;font-size:12px;padding:10px 0;border-bottom:1px solid #b9c1b2}
+.welcome-link:hover{color:#426335;border-color:#70bf4e}
+.welcome-aside{align-self:center;padding-top:70px}
+.aside-label{font-size:9px;letter-spacing:2px;color:#7b8476;margin-bottom:18px}
+.welcome-aside a{display:grid;grid-template-columns:24px 1fr 16px;gap:10px;align-items:start;padding:20px 0;border-top:1px solid #dce2d6;font-size:16px;line-height:1.4;font-weight:500;letter-spacing:-.3px}
+.welcome-aside a:last-child{border-bottom:1px solid #dce2d6}
+.focus-number{font-size:9px;color:#88927f;line-height:2}
+.focus-arrow{font-size:15px;color:#99a48f}
+.welcome-aside a:hover{color:#477532}.welcome-aside a:hover .focus-arrow{color:#70bf4e}
+.home footer{background:#fcfcfa;border-color:var(--line);padding-inline:5%;flex-basis:44px;color:#7a8273}
+.home footer p{color:#7a8273;font-size:9px}
+.page-hero{background:#f3f5ee;padding:48px 7%;border-color:var(--line)}
+.page-hero:before{content:'';display:block;width:35px;height:3px;background:#70bf4e;margin-bottom:23px}
+.page-hero h1{font-size:48px;font-weight:500;letter-spacing:-1.8px}
+.eyebrow{color:#77836c;font-size:9px;letter-spacing:1.8px}
+.page-content{padding-top:25px;max-width:1380px}
+.copy p{color:#596052;font-size:14px;line-height:1.9}
+.copy p:first-child{font-weight:500;font-size:22px;color:#283222}
+.content-block{padding:36px 0;border-color:var(--line)}
+.source-links a{color:#476e36;border-color:#b9c9b0}
+.video-link{background:#283322}
+.page-1 .with-media{grid-template-columns:230px minmax(0,1fr);gap:50px}
+.page-1 .with-media .media-grid{order:-1}
+.page-1 .with-media .media-grid img{max-height:340px}
+figure{background:#f0f3eb}
+.members-section{padding:26px 0 40px}
+.members-section h2{font-size:30px;font-weight:500;letter-spacing:-.8px}
+.member-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:60px;border-top:1px solid var(--line)}
+.member-row{padding:24px 0;border-bottom:1px solid var(--line)}
+.member-row h3{font-size:22px;font-weight:500;letter-spacing:-.4px;margin:0 0 8px}
+.member-row p{font-size:12px;color:#7b8474;margin:0}
+.page-2 .copy p{border-bottom:0;padding-bottom:0}
+footer{background:#eff2e9;color:#34402b;border-top:1px solid #dfe5d6}
+footer p{color:#7a8470}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline-color:#4f8b32}
+@media(min-width:1600px){.welcome{padding-left:75px;padding-right:75px}}
+@media(max-width:1250px){
+ nav{background:#fcfcfa;padding:14px 5%;top:100%}
+ nav a,.home nav a{padding:12px 0;font-size:14px}
+ .welcome{grid-template-columns:minmax(0,1fr) 210px;gap:5%}
+ .welcome h1{font-size:clamp(40px,5.2vw,65px)}
+}
+@media(max-width:760px){
+ .home{min-height:560px}
+ .site-header,.home .site-header{height:76px;flex-basis:76px;padding-inline:6%}
+ .brand-mark{font-size:33px}
+ .brand{gap:12px}
+ .brand-description{font-size:10px;width:141px}
+ .welcome{display:block;padding:32px 7%}
+ .welcome h1{font-size:clamp(37px,7.8vw,58px);letter-spacing:-1.6px;line-height:1.17;margin-bottom:22px}
+ .title-prefix{letter-spacing:-.6px;margin-bottom:12px;font-size:.55em}
+ .welcome-kicker{font-size:7px;letter-spacing:1.2px;margin-bottom:25px;gap:8px}
+ .welcome-description{font-size:13px;max-width:340px;margin-bottom:27px}
+ .welcome-aside{display:none}
+ .welcome-actions{gap:22px}
+ .welcome-button{font-size:11px;gap:22px;padding:13px 16px}
+ .welcome-link{font-size:11px;gap:10px}
+ .home footer{padding-inline:6%}.home footer p{font-size:8px}
+ .page-hero{padding:35px 7%}.page-hero h1{font-size:38px}
+ .page-1 .with-media{grid-template-columns:1fr;gap:24px}
+ .page-1 .with-media .media-grid{max-width:230px}
+ .member-list{grid-template-columns:1fr}
+ .member-row{padding:20px 0}
+}
+
+/* Projects overview. */
+.projects-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;padding:58px 0 90px}
+.project-card{min-height:330px;padding:30px;display:flex;flex-direction:column;border:1px solid #2a302b;border-radius:22px;background:#0b0e0c;transition:transform .2s ease,border-color .2s ease}
+.project-card:hover{transform:translateY(-3px);border-color:#70bf4e}
+.project-card>span{font-size:12px;color:#70bf4e;letter-spacing:.12em}
+.project-card h2{font-size:30px;margin:auto 0 18px;line-height:1.2}
+.project-card p{font-size:15px;line-height:1.7;color:#a8b1a9;margin:0}
+@media(max-width:860px){.projects-grid{grid-template-columns:1fr;padding:38px 0 60px}.project-card{min-height:240px}}
+@media(max-width:360px){.brand-description{font-size:9px;width:120px}.brand{gap:8px}.brand-mark{font-size:29px}.welcome h1{font-size:36px}}
+@media(max-height:650px) and (min-width:761px){
+ .home{min-height:480px}.home .site-header{height:74px;flex-basis:74px}
+ .welcome{padding-block:22px}.welcome h1{font-size:45px;margin-bottom:15px}
+ .welcome-kicker{margin-bottom:17px}.welcome-description{margin-bottom:20px;font-size:12px}
+ .welcome-aside{padding-top:20px}.welcome-aside a{padding:14px 0;font-size:14px}
+}
+
+/* Black RiMS theme */
+:root{--ink:#f2f5f0;--muted:#99a39a;--line:#252b27;--paper:#090b0a;--brand:#70bf4e}
+html,body{background:#000;color:var(--ink)}
+.site-header,.home .site-header{background:#000;border-color:var(--line)}
+.brand-description{color:#d5dad4;border-color:#303631}
+nav a:hover,nav a[aria-current]{color:#fff;border-color:var(--brand)}
+.menu-toggle{color:#eef2ed}
+.page-hero{background:#090b0a;border-color:var(--line)}
+.page-hero h1{color:#f5f7f4}
+.page-hero h1{margin:0}
+.page-hero>p:last-child,.eyebrow{color:#8f9b90}
+.page-content{background:#000}
+.content-block,.bio,.member-list,.member-row{border-color:var(--line)}
+.copy p{color:#a8b1a9}.copy p:first-child{color:#eef3ed}
+.source-links a{color:#8ecf70;border-color:#47623b}
+figure{background:#0b0e0c}
+.video-link{background:#111713;color:#f4f7f2}
+.member-row h3,.members-section h2{color:#eef3ed}
+.member-row p{color:#929d93}
+footer{background:#050605;color:#dce2db;border-color:#222723}
+footer p{color:#8e998f}
+@media(max-width:1250px){nav{background:#050605;border-color:var(--line);box-shadow:0 18px 30px #000}}
+
+/* Unified People, Publications, and Contact pages. */
+.people-jump{display:flex;gap:10px;flex-wrap:wrap;padding:24px 0 10px}
+.people-jump a{border:1px solid #303731;border-radius:999px;padding:9px 16px;color:#aeb8af;font-size:12px}
+.people-jump a:hover{border-color:#70bf4e;color:#fff}
+.people-group{padding:58px 0 70px;border-bottom:1px solid var(--line)}
+.people-group>h2{font-size:34px;margin-bottom:32px}
+.professor-profile{display:grid;grid-template-columns:280px minmax(0,1fr);gap:55px;align-items:start}
+.professor-profile figure{border-radius:22px;overflow:hidden}
+.professor-profile figure img{width:100%;aspect-ratio:4/5;object-fit:cover}
+.professor-profile h3{font-size:32px;margin:5px 0 10px}
+.professor-profile>div>p{max-width:760px;color:#a8b1a9;line-height:1.85}
+.professor-profile .professor-role{color:#70bf4e;margin-bottom:26px}
+.professor-links{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}
+.professor-links a,.publication-link{display:inline-flex;gap:24px;border:1px solid #384139;border-radius:999px;padding:12px 18px;color:#dce4da;font-size:12px}
+.professor-links a:hover,.publication-link:hover{border-color:#70bf4e;color:#fff}
+.people-card-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.person-card{min-height:150px;padding:25px;border:1px solid #2a302b;border-radius:18px;background:#0b0e0c}
+.person-card h3,.alumni-list h3{font-size:20px;margin:0 0 9px}
+.person-card p,.alumni-list p{font-size:13px;color:#98a399;margin:0}
+.alumni-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:45px}
+.alumni-list article{padding:23px 0;border-top:1px solid var(--line)}
+.publication-feature{max-width:850px;padding:75px 0 110px}
+.publication-feature h2{font-size:40px}.publication-feature>p{color:#a8b1a9;font-size:17px;line-height:1.85;margin-bottom:32px}
+.contact-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;padding:55px 0 90px}
+.contact-grid article{min-height:210px;padding:28px;border:1px solid #2a302b;border-radius:20px;background:#0b0e0c}
+.contact-grid article:last-child{grid-column:1/-1}
+.contact-grid h2{font-size:24px;line-height:1.5}.contact-grid article>p:last-child{color:#98a399}
+@media(max-width:760px){
+ .professor-profile{grid-template-columns:1fr;gap:28px}.professor-profile figure{max-width:260px}
+ .professor-profile h3{font-size:27px}.people-card-grid,.alumni-list,.contact-grid{grid-template-columns:1fr}
+ .contact-grid article:last-child{grid-column:auto}.people-group{padding:42px 0 52px}
+}
