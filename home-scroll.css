@@ -310,7 +310,8 @@ footer>.footer-copyright,.home footer>.footer-copyright{
 
 /* Larger desktop navigation while preserving the single-row menu. */
 @media(min-width:861px){
- .site-header nav,.home .site-header nav{gap:clamp(12px,1.25vw,22px)}
+ .site-header,.home .site-header{padding-right:max(12px,1.25vw)}
+ .site-header nav,.home .site-header nav{gap:clamp(14px,1.4vw,26px)}
  .site-header nav a,.home .site-header nav a{font-size:17px!important;font-weight:650}
 }
 
