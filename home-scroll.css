@@ -314,13 +314,26 @@ footer>.footer-copyright,.home footer>.footer-copyright{
  .site-header nav a,.home .site-header nav a{font-size:17px!important;font-weight:650}
 }
 
-/* Equal visual spacing between the four footer groups on wide screens. */
+/* Treat brand + lab name as one identity group, then space three groups evenly. */
+.footer-identity{display:flex;align-items:center;gap:clamp(32px,3.2vw,62px);min-width:0}
+@media(min-width:1101px){
+ footer,.home footer{
+  grid-template-columns:minmax(460px,1.35fr) minmax(360px,1fr) minmax(190px,.55fr);
+  justify-content:stretch;
+  column-gap:clamp(28px,3vw,52px);
+  padding-inline:clamp(44px,5.5vw,105px);
+ }
+}
 @media(min-width:1501px){
  footer,.home footer{
-  grid-template-columns:max-content max-content max-content max-content;
+  grid-template-columns:max-content max-content max-content;
   justify-content:space-between;
   column-gap:0;
+  padding-inline:clamp(80px,7vw,134px);
  }
+}
+@media(max-width:620px){
+ .footer-identity{flex-direction:column;align-items:flex-start;gap:18px}
 }
 
 /* Hero affiliation readability */
