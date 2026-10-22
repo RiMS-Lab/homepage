@@ -308,6 +308,21 @@ footer>.footer-copyright,.home footer>.footer-copyright{
  footer>.footer-copyright,.home footer>.footer-copyright{right:8px;bottom:2px;font-size:12px;line-height:16px}
 }
 
+/* Larger desktop navigation while preserving the single-row menu. */
+@media(min-width:861px){
+ .site-header nav,.home .site-header nav{gap:clamp(12px,1.25vw,22px)}
+ .site-header nav a,.home .site-header nav a{font-size:17px!important;font-weight:650}
+}
+
+/* Equal visual spacing between the four footer groups on wide screens. */
+@media(min-width:1501px){
+ footer,.home footer{
+  grid-template-columns:max-content max-content max-content max-content;
+  justify-content:space-between;
+  column-gap:0;
+ }
+}
+
 /* Hero affiliation readability */
 .intro-university{font-size:16px;margin-left:3px}
 @media(max-width:860px){.intro-university{font-size:13px}}
