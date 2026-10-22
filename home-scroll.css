@@ -251,20 +251,20 @@ footer .footer-location p,.home footer .footer-location p{white-space:nowrap}
 @media(max-width:620px){footer,.home footer{grid-template-columns:1fr;padding-inline:7%}}
 
 /* Larger footer identity and type for comfortable reading. */
-footer,.home footer{padding-top:38px;padding-bottom:38px}
-.footer-brand{gap:22px}
-.footer-kmou img{width:82px;height:82px}
-footer .footer-brand .brand-mark,.home footer .footer-brand .brand-mark{font-size:44px}
+footer,.home footer{padding-top:14px;padding-bottom:14px}
+.footer-brand{gap:20px}
+.footer-kmou img{width:96px;height:96px}
+footer .footer-brand .brand-mark,.home footer .footer-brand .brand-mark{font-size:50px}
 footer .footer-about strong,footer .footer-location>strong,footer .footer-contact>strong,
-.home footer .footer-about strong,.home footer .footer-location>strong,.home footer .footer-contact>strong{font-size:18px;line-height:1.35}
+.home footer .footer-about strong,.home footer .footer-location>strong,.home footer .footer-contact>strong{font-size:19px;line-height:1.25}
 footer .footer-about p,footer .footer-location p,footer .footer-contact p,
-.home footer .footer-about p,.home footer .footer-location p,.home footer .footer-contact p{font-size:16px;line-height:1.6;margin-top:8px}
+.home footer .footer-about p,.home footer .footer-location p,.home footer .footer-contact p{font-size:16px;line-height:1.4;margin-top:4px}
 .footer-contact span{width:23px}
-.footer-contact .footer-copyright{font-size:14px;margin-top:12px}
+.footer-contact .footer-copyright{font-size:14px;margin-top:5px}
 @media(max-width:620px){
- footer,.home footer{padding-top:34px;padding-bottom:34px}
- .footer-kmou img{width:72px;height:72px}
- footer .footer-brand .brand-mark,.home footer .footer-brand .brand-mark{font-size:40px}
+ footer,.home footer{padding-top:20px;padding-bottom:20px}
+ .footer-kmou img{width:82px;height:82px}
+ footer .footer-brand .brand-mark,.home footer .footer-brand .brand-mark{font-size:44px}
 }
 
 /* Hero affiliation readability */
