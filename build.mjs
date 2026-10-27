@@ -14,9 +14,9 @@ const navItems=[
  ['Contact','contact.html']
 ];
 const boardItems=[
- {slug:'board-molit-ai-seminar.html',title:'국토교통부(MOLIT) 2025 AI 자율주행 인증 관련 국회세미나 9월 개최!',date:'2025.09',images:['assets/board-unece-article-1.png','assets/board-unece-article-2.png']},
- {slug:'board-zero-2023.html',title:"ZERO 팀 2023 국토부 무인모빌리티 경진대회 종합 3위 '은상' 수상",date:'2023.10.14',images:['assets/board-competition-2023-team.png','assets/board-competition-2023-award.png']},
- {slug:'board-frozen-2021-2022.html',title:"FROZEN 팀 2021,2022 자율주행 경진대회에서 2년연속 '우수상' 3개 수상",date:'2021–2022',images:['assets/board-competition-2022-team.png','assets/board-competition-2021-team.png']}
+ {slug:'board-molit-ai-seminar.html',title:'국토교통부(MOLIT) 2025 AI 자율주행 인증 관련 국회세미나 9월 개최!',date:'2025.09',thumb:'assets/board-thumb-molit.jpg',images:['assets/board-unece-article-1.png','assets/board-unece-article-2.png']},
+ {slug:'board-zero-2023.html',title:"ZERO 팀 2023 국토부 무인모빌리티 경진대회 종합 3위 '은상' 수상",date:'2023.10.14',thumb:'assets/board-thumb-zero-2023.jpg',images:['assets/board-competition-2023-team.png','assets/board-competition-2023-award.png']},
+ {slug:'board-frozen-2021-2022.html',title:"FROZEN 팀 2021,2022 자율주행 경진대회에서 2년연속 '우수상' 3개 수상",date:'2021–2022',thumb:'assets/board-thumb-frozen.jpg',images:['assets/board-competition-2022-team.png','assets/board-competition-2021-team.png']}
 ];const local=new Map([
  [pages[0].url,'index.html'],
  [pages[1].url,'professor.html'],
@@ -39,10 +39,10 @@ function nav(active){
 function home(){
  const research=[
   ['assets/ai-autonomous-mobility.jpg','Autonomous Mobility'],
-  ['assets/ai-digital-twin.png','Physical AI & Digital Twins'],
-  ['assets/ai-driving-experience.png','High-Performance Driving Experience']
+  ['assets/home-ai-digital-twin.jpg','Physical AI & Digital Twins'],
+  ['assets/home-ai-driving-experience.jpg','High-Performance Driving Experience']
  ];
- return '<section class="intro-clean"><div class="intro-copy"><h1>Research in Intelligent Mobility Systems Lab</h1><p class="intro-university">Artificial Intelligence Engineering, Korea Maritime &amp; Ocean University</p></div></section><section class="research-clean"><div class="clean-section-title"><h2>Research</h2><a href="#" aria-disabled="true" tabindex="-1">View all →</a></div><div class="research-clean-grid">'+research.map(([image,title])=>'<a class="research-card" href="#" aria-disabled="true" tabindex="-1"><div class="card-image"><img src="'+image+'" alt="'+e(title)+'"></div><div class="card-body"><h3>'+(title==='High-Performance Driving Experience'?'High-Performance<br>Driving Experience':e(title))+'</h3></div></a>').join('')+'</div></section><section class="news-clean"><div class="clean-section-title"><h2>Board</h2><a href="board.html">View all →</a></div><div class="clean-news-grid">'+boardItems.slice(0,3).map(item=>'<a class="news-card" href="'+e(item.slug)+'"><div class="news-card-image"><img src="'+e(item.images[0])+'" alt="'+e(item.title)+'" loading="lazy" decoding="async"></div><div class="card-body"><time datetime="'+e(item.date)+'">'+e(item.date)+'</time><h3>'+e(item.title)+'</h3></div></a>').join('')+'</div></section>';
+ return '<section class="intro-clean"><div class="intro-copy"><h1>Research in Intelligent Mobility Systems Lab</h1><p class="intro-university">Artificial Intelligence Engineering, Korea Maritime &amp; Ocean University</p></div></section><section class="research-clean"><div class="clean-section-title"><h2>Research</h2><a href="#" aria-disabled="true" tabindex="-1">View all →</a></div><div class="research-clean-grid">'+research.map(([image,title])=>'<a class="research-card" href="#" aria-disabled="true" tabindex="-1"><div class="card-image"><img src="'+image+'" alt="'+e(title)+'"></div><div class="card-body"><h3>'+(title==='High-Performance Driving Experience'?'High-Performance<br>Driving Experience':e(title))+'</h3></div></a>').join('')+'</div></section><section class="news-clean"><div class="clean-section-title"><h2>Board</h2><a href="board.html">View all →</a></div><div class="clean-news-grid">'+boardItems.slice(0,3).map(item=>'<a class="news-card" href="'+e(item.slug)+'"><div class="news-card-image"><img src="'+e(item.thumb)+'" alt="'+e(item.title)+'" loading="lazy" decoding="async"></div><div class="card-body"><time datetime="'+e(item.date)+'">'+e(item.date)+'</time><h3>'+e(item.title)+'</h3></div></a>').join('')+'</div></section>';
 }function pageHero(title){return `<section class="page-hero"><h1>${e(title)}</h1></section>`;}
 function memberData(){
  const professorImage=pages[1].sections[5].images[0]?.local||'assets/home-0.jpg';
@@ -154,7 +154,7 @@ function projectsPage(){
  return pageHero('Projects')+`<div class="page-content projects-page"><section class="logo-projects-grid" aria-label="Research projects">${projects.map(([title,period,image,alt,variant])=>`<article class="logo-project-card"><div class="project-logo-wrap"><img class="${variant==='emblem'?'project-logo-emblem':''}" src="${e(image)}" alt="${e(alt)}"></div><div class="project-copy"><h2>${e(title)}</h2><p>Period ${e(period)}</p></div></article>`).join('')}</section></div>`;
 }
 function boardPage(){
- return pageHero('Board')+'<div class="page-content board-page"><section class="board-index-grid" aria-label="Board posts">'+boardItems.map(item=>'<a class="board-index-card" href="'+e(item.slug)+'"><figure><img src="'+e(item.images[0])+'" alt="'+e(item.title)+'" loading="lazy" decoding="async"></figure><div class="board-index-copy"><time datetime="'+e(item.date)+'">'+e(item.date)+'</time><h2>'+e(item.title)+'</h2><span>View post</span></div></a>').join('')+'</section></div>';
+ return pageHero('Board')+'<div class="page-content board-page"><section class="board-index-grid" aria-label="Board posts">'+boardItems.map(item=>'<a class="board-index-card" href="'+e(item.slug)+'"><figure><img src="'+e(item.thumb)+'" alt="'+e(item.title)+'" loading="lazy" decoding="async"></figure><div class="board-index-copy"><time datetime="'+e(item.date)+'">'+e(item.date)+'</time><h2>'+e(item.title)+'</h2><span>View post</span></div></a>').join('')+'</section></div>';
 }
 function boardDetailPage(item){
  return pageHero('Board')+'<div class="page-content board-detail-page"><a class="board-back" href="board.html">← Board</a><article class="board-detail"><header><time datetime="'+e(item.date)+'">'+e(item.date)+'</time><h2>'+e(item.title)+'</h2></header><div class="board-detail-images">'+item.images.map((image,index)=>'<figure><img src="'+e(image)+'" alt="'+e(item.title)+' — image '+(index+1)+'" loading="lazy" decoding="async"></figure>').join('')+'</div></article></div>';
@@ -186,6 +186,7 @@ for(const [file,title,active,body,isHome] of outputPages)fs.writeFileSync(path.j
 for(const legacy of ['people.html','d-shin.html','lab-members.html'])fs.writeFileSync(path.join(root,legacy),`<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="refresh" content="0; url=professor.html"><link rel="canonical" href="professor.html"><title>Members — RiMS Lab</title></head><body><main><h1>Members</h1><p><a href="professor.html">Continue to Members</a></p></main></body></html>`);
 for(const legacy of ['news.html','gallery.html'])fs.writeFileSync(path.join(root,legacy),`<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="refresh" content="0; url=board.html"><link rel="canonical" href="board.html"><title>Board — RiMS Lab</title></head><body><main><h1>Board</h1><p><a href="board.html">Continue to Board</a></p></main></body></html>`);
 console.log(`Generated ${outputPages.length} main pages and 5 compatibility redirects.`);
+
 
 
 
