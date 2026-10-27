@@ -227,6 +227,23 @@ footer,.home footer{grid-template-columns:220px 350px minmax(430px,520px) 220px;
 .footer-about,.footer-location,.footer-contact{padding-top:3px}
 .home a[aria-disabled="true"]{cursor:default}
 .home a[aria-disabled="true"]:hover{transform:none}
+
+/* Research dropdown: three research themes and Projects. */
+.site-header .nav-group{position:relative;display:flex;align-self:stretch;align-items:center}
+.site-header .nav-parent{height:100%;padding:0;border:0;border-bottom:3px solid transparent;background:transparent;color:inherit;font:inherit;font-size:17px;font-weight:650;white-space:nowrap;cursor:pointer}
+.site-header .nav-group.current .nav-parent,.site-header .nav-group:hover .nav-parent,.site-header .nav-group.open .nav-parent{color:#fff;border-bottom-color:#70bf4e}
+.site-header .nav-submenu{position:absolute;top:calc(100% - 1px);left:50%;min-width:310px;padding:12px;background:#090b0a;border:1px solid #252b27;border-radius:0 0 16px 16px;box-shadow:0 18px 35px rgba(0,0,0,.5);opacity:0;visibility:hidden;transform:translate(-50%,-6px);transition:opacity .18s ease,transform .18s ease,visibility .18s ease}
+.site-header .nav-group-members .nav-submenu{min-width:190px}
+.site-header .nav-group:hover .nav-submenu,.site-header .nav-group:focus-within .nav-submenu,.site-header .nav-group.open .nav-submenu{opacity:1;visibility:visible;transform:translate(-50%,0)}
+.site-header .nav-submenu a,.home .site-header .nav-submenu a{display:block;padding:11px 14px!important;border:0;border-radius:8px;font-size:14px!important;font-weight:550;color:#bec7bf;white-space:nowrap}
+.site-header .nav-submenu a:hover{background:#131814;color:#fff}
+@media(max-width:760px){
+ .site-header .nav-group{display:block}
+ .site-header .nav-parent{width:100%;height:auto;padding:13px 0;text-align:left;font-size:15px;border:0}
+ .site-header .nav-submenu{position:static;display:none;min-width:0;padding:2px 0 8px 14px;border:0;border-left:1px solid #303831;border-radius:0;box-shadow:none;opacity:1;visibility:visible;transform:none;background:transparent}
+ .site-header .nav-group.open .nav-submenu{display:block;transform:none}
+ .site-header .nav-submenu a,.home .site-header .nav-submenu a{padding:9px 12px!important;font-size:13px!important}
+}
 @media(max-width:1550px){footer,.home footer{grid-template-columns:190px minmax(250px,1fr) minmax(380px,1.5fr) 210px;column-gap:28px}}
 @media(max-width:1100px){footer,.home footer{grid-template-columns:minmax(220px,1fr) minmax(320px,1.5fr);justify-content:stretch}}
 @media(max-width:860px){.intro-clean h1{white-space:normal;font-size:clamp(38px,9vw,54px);letter-spacing:-1.7px}}
@@ -340,4 +357,36 @@ footer>.footer-copyright,.home footer>.footer-copyright{
 /* Hero affiliation readability */
 .intro-university{font-size:16px;margin-left:3px}
 @media(max-width:860px){.intro-university{font-size:13px}}
+
+/* Final responsive footer layout. */
+footer,.home footer{
+ display:grid;
+ grid-template-columns:minmax(440px,1.25fr) minmax(330px,1fr) minmax(205px,.55fr);
+ gap:24px clamp(28px,3vw,52px);
+ align-items:center;
+ padding:14px clamp(32px,5vw,96px) 20px;
+}
+footer>*,.home footer>*{min-width:0}
+footer .footer-location p,.home footer .footer-location p{white-space:normal;overflow-wrap:anywhere}
+footer .footer-contact a,.home footer .footer-contact a{overflow-wrap:anywhere}
+@media(max-width:1200px){
+ footer,.home footer{grid-template-columns:minmax(0,1fr) minmax(0,1fr);padding:24px 6%;align-items:start}
+ .footer-identity{grid-column:1/-1}
+ footer>.footer-copyright,.home footer>.footer-copyright{position:static;grid-column:1/-1;justify-self:end;margin:0;font-size:13px;line-height:1.4}
+}
+@media(max-width:760px){
+ footer,.home footer{grid-template-columns:1fr;gap:24px;padding:28px 7%}
+ .footer-identity,.footer-location,.footer-contact,footer>.footer-copyright,.home footer>.footer-copyright{grid-column:1}
+ .footer-identity{flex-direction:row;align-items:center;gap:24px}
+ footer .footer-about strong,footer .footer-location>strong,footer .footer-contact>strong,
+ .home footer .footer-about strong,.home footer .footer-location>strong,.home footer .footer-contact>strong{font-size:17px}
+ footer .footer-about p,footer .footer-location p,footer .footer-contact p,
+ .home footer .footer-about p,.home footer .footer-location p,.home footer .footer-contact p{font-size:14px;line-height:1.5}
+ footer>.footer-copyright,.home footer>.footer-copyright{justify-self:start;font-size:12px}
+}
+@media(max-width:460px){
+ .footer-identity{flex-direction:column;align-items:flex-start;gap:18px}
+ .footer-kmou img{width:72px;height:72px}
+ footer .footer-brand .brand-mark,.home footer .footer-brand .brand-mark{font-size:40px}
+}
 
